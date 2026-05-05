@@ -17,6 +17,26 @@ description: "Каталог всех страниц базы знаний по 
 - [AI-генераторы презентаций](./ai/ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./ai/local-ai.md)
 
+### AI-дизайн
+
+- [AI-дизайн: инструменты и форматы](./ai/design/index.md)
+- [DESIGN.md — формат дизайн-систем для AI](./ai/design/design-md.md)
+- [DESIGN.md — рабочий пайплайн](./ai/design/design-md-workflow.md)
+- [Обзор AI-инструментов для дизайна](./ai/design/ai-design-tools.md)
+
+### AI Agents и контекст-файлы
+
+- [AGENTS.md и контекст-файлы для AI](./ai/agents/index.md)
+- [AGENTS.md — формат инструкций для AI-агентов](./ai/agents/agents-md.md)
+- [Сравнение контекст-файлов](./ai/agents/context-files-ecosystem.md)
+
+### Agent Skills
+
+- [Agent Skills для AI](./ai/skills/index.md)
+- [SKILL.md — формат и спецификация](./ai/skills/skill-md.md)
+- [Каталоги и репозитории скиллов](./ai/skills/skills-directories.md)
+- [Официальные экосистемы скиллов](./ai/skills/official-skills.md)
+
 ## Бизнес
 
 ### Клиенты

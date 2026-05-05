@@ -138,6 +138,18 @@ AI-агенты — это автономные системы на базе LLM
 | AI-поддержка клиентов | Intercom Fin |
 | AI в CRM | HubSpot Breeze |
 
+## См. также
+
+- [AI для кода: Copilot, Cursor, Claude Code](./ai-for-code.md) — AI-инструменты для разработки
+- [Agent Skills для AI](./skills/index.md) — SKILL.md, каталоги и экосистемы скиллов
+- [AGENTS.md и контекст-файлы](./agents/index.md) — контекст-файлы для AI-агентов
+
+## См. также
+
+- [AGENTS.md — формат инструкций для AI-агентов](./agents/agents-md.md) — стандарт контекст-файлов для AI coding agents
+- [Сравнение контекст-файлов](./agents/context-files-ecosystem.md) — AGENTS.md vs CLAUDE.md vs SKILL.md
+- [AI для кода: Copilot, Cursor, Claude Code](./ai-for-code.md) — инструменты, которые читают AGENTS.md
+
 ## Материалы и источники
 
 - [VC.ru — 40 лучших ИИ инструментов 2025](https://vc.ru/ai/1735732-40-luchshih-ii-instrumentov-i-neirosetei-v-2025-godu)
