@@ -41,6 +41,7 @@ description: "Каталог всех страниц базы знаний по 
 - [LLM-модели для бизнеса: ChatGPT, Claude, Gemini](./ai/llm-models.md)
 - [AI для кода: Copilot, Cursor, Claude Code](./ai/ai-for-code.md)
 - [AI-агенты и автоматизация](./ai/ai-agents.md)
+- [Вертикальный ИИ: отраслевые AI-решения](./ai/vertical-ai.md)
 - [AI для контента и маркетинга](./ai/ai-content-marketing.md)
 - [AI в поиске: Perplexity, SearchGPT, You.com](./ai/ai-search.md)
 - [AI-генерация медиа: изображения, видео, аудио](./ai/ai-media-generation.md)
@@ -52,15 +53,21 @@ description: "Каталог всех страниц базы знаний по 
 
 ### Клиенты
 
-- [CRM, маркетинг, продажи, поддержка](./business/clients/index.md)
+- [CRM-системы: AmoCRM, Bitrix24, HubSpot, ELMA365](./business/clients/crm-systems.md)
+- [Маркетинговые платформы: SEO, email, аналитика](./business/clients/marketing-platforms.md)
+- [SEO-инструменты: Serpstat, Keys.So, Semrush, Ahrefs](./business/clients/seo-tools.md)
+- [Email-маркетинг: UniSender, DashaMail, Mailchimp](./business/clients/email-marketing.md)
+- [Маркетинговая аналитика: Метрика, GA4, Roistat, Amplitude](./business/clients/marketing-analytics.md)
 
 ### Финансы
 
 - [Учёт, бюджетирование, финмодели, отчётность](./business/finance/index.md)
+- [Банки для бизнеса: РКО, эквайринг, онлайн-кассы](./business/finance/banki-dlya-biznesa.md)
+- [Кредиты, факторинг и лизинг для бизнеса](./business/finance/kredity-factoring-lizing.md)
 
 ### Процессы
 
-- [Методологии управления: Agile, Scrum, Kanban](./business/management-methodologies.md)
+- [Методологии управления: Agile, Scrum, Kanban](./business/processes/management-methodologies.md)
 - [Стратегическое планирование: OKR, V2MOM, North Star](./business/strategic-planning.md)
 - [Бережливое производство и Lean](./business/lean.md)
 - [Дизайн-мышление и Customer Development](./business/design-thinking.md)
@@ -87,18 +94,18 @@ description: "Каталог всех страниц базы знаний по 
 
 #### SaaS-сервисы
 
-- [CRM-системы: AmoCRM, Bitrix24, HubSpot, ELMA365](./business/processes/saas/crm-systems.md)
-- [Маркетинговые платформы: SEO, email, аналитика](./business/processes/saas/marketing-platforms.md)
-- [SEO-инструменты: Serpstat, Keys.So, Semrush, Ahrefs](./business/processes/saas/seo-tools.md)
-- [Email-маркетинг: UniSender, DashaMail, Mailchimp](./business/processes/saas/email-marketing.md)
-- [Маркетинговая аналитика: Метрика, GA4, Roistat, Amplitude](./business/processes/saas/marketing-analytics.md)
 - [Финансы и бухгалтерия: сервисы для бизнеса](./business/processes/saas/finance-accounting.md)
+- [ERP и CRM-системы для бизнеса](./business/processes/saas/erp-crm-sistemy.md)
 - [Управление проектами: Jira, Linear, Height, YouGile](./business/processes/saas/project-management.md)
 - [HR и управление персоналом](./business/processes/saas/hr-tools.md)
 
 ### Персонал
 
-- [Найм, онбординг, мотивация, HR](./business/staff/index.md)
+- [Поиск и найм сотрудников: hh.ru, SuperJob, Хабр Карьера, ATS](./business/staff/poisk-i-najm.md)
+- [HRM/HRIS-системы: Битрикс24, 1С:ЗУП, SimpleOne, Saby](./business/staff/hrm-hris-systems.md)
+- [Онбординг и адаптация сотрудников](./business/staff/onbording-i-adaptaciya.md)
+- [Корпоративное обучение и LMS](./business/staff/korporativnoe-obuchenie-lms.md)
+- [WordPress LMS-плагины: LearnDash, LifterLMS, Tutor LMS](./business/staff/wordpress-lms-plugins.md)
 
 ## IT-инструменты
 

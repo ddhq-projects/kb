@@ -10,13 +10,14 @@ AI-ассистенты — это потребительские продукт
 ## Сравнение основных ассистентов (2026)
 
 ### ChatGPT (OpenAI)
-- **Модели:** GPT-5.2, GPT-4o, o4-mini
+- **Модели:** GPT-5.4 (март 2026), GPT-4o, o4-mini
 - **Интерфейс:** веб, мобильные приложения, десктоп
 - **Ключевые фичи:** Code Interpreter, GPTs (кастомные боты), DALL·E, web search, Canvas, голосовой режим
+- **Enterprise:** ChatGPT Enterprise — 92% Fortune 500 используют, enterprise-безопасность, неограниченный доступ
 - **Контекст:** 128K токенов
 - **Плюсы:** лучшая экосистема, огромное сообщество, максимальная функциональность
 - **Минусы:** цензура, блокировки в РФ, высокая цена Pro
-- **Цена:** Free / Plus $20/мес / Pro $200/мес
+- **Цена:** Free / Plus $20/мес / Pro $200/мес / Enterprise — по запросу
 
 ### Claude (Anthropic)
 - **Модели:** Claude 4 Opus / Sonnet
@@ -104,3 +105,5 @@ AI-ассистенты — это потребительские продукт
 - [DTF — Топ-50 нейросетей](https://dtf.ru/id2164790/4003520-top-50-neyrosetey-2025)
 - [Bothub — обзор](https://habr.com/ru/companies/bothub/articles/992038/)
 - [Plaan AI — Топ-100 AI](https://plaan.ai/top-100-ai/)
+- [Wellows — AI Startups](https://wellows.com/blog/ai-startups/)
+- [Infoloop — Top 10 SaaS Trends for 2026](https://infoloop.co/top-10-saas-trends-for-2026-ai-vertical-platforms-more/)

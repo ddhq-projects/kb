@@ -15,6 +15,7 @@ description: "Сравнение AI-инструментов для разраб
 
 ### Cursor
 - **Тип:** AI-first IDE
+- **Оценка:** $29B (2026), ARR $1B, 500K+ разработчиков
 - **IDE:** собственный редактор (форк VS Code)
 - **Модели:** GPT-4o, Claude 4, собственные
 - **Плюсы:** Tab (умное автодополнение), Composer (мультифайловые правки), Agent, правила
@@ -61,3 +62,5 @@ description: "Сравнение AI-инструментов для разраб
 - [Cursor Documentation](https://docs.cursor.com/)
 - [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
 - [Windsurf Documentation](https://docs.windsurf.com/)
+- [Wellows — AI Startups](https://wellows.com/blog/ai-startups/)
+- [CRN — 10 AI Startup Companies to Watch in 2026](https://www.crn.com/news/ai/2026/the-10-ai-startup-companies-to-watch-in-2026)

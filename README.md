@@ -57,7 +57,7 @@
 
 ### Бизнес-процессы
 
-- [Методологии управления: Agile, Scrum, Kanban](src/content/docs/business/management-methodologies.md) — Фреймворки управления проектами.
+- [Методологии управления: Agile, Scrum, Kanban](src/content/docs/business/processes/management-methodologies.md) — Фреймворки управления проектами.
 - [Стратегическое планирование: OKR, V2MOM, North Star](src/content/docs/business/strategic-planning.md) — Метрики и фреймворки стратегии.
 - [Бережливое производство и Lean](src/content/docs/business/lean.md) — Lean-подходы в управлении.
 - [Дизайн-мышление и Customer Development](src/content/docs/business/design-thinking.md) — Методологии создания продуктов.

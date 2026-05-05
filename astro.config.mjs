@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightAutoSidebar from "starlight-auto-sidebar";
+import { remarkStripMdLinks } from "./src/remark-strip-md-links.mjs";
 
 const isProd = process.env.NODE_ENV === 'production';
 
@@ -13,6 +14,10 @@ const BASE = process.env.CNAME ? "/" : (isProd ? "/kb-ddpa" : "/");
 export default defineConfig({
   site: SITE_URL,
   base: BASE,
+
+  markdown: {
+    remarkPlugins: [remarkStripMdLinks],
+  },
 
   integrations: [
     starlight({

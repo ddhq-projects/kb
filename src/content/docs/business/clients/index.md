@@ -5,6 +5,14 @@ description: "Привлечение, удержание и работа с кл
 
 Раздел про работу с клиентами: от привлечения до удержания.
 
+## Страницы
+
+- [CRM-системы: AmoCRM, Bitrix24, HubSpot, ELMA365](./crm-systems.md)
+- [Маркетинговые платформы: SEO, email, аналитика](./marketing-platforms.md)
+- [SEO-инструменты: Serpstat, Keys.So, Semrush, Ahrefs](./seo-tools.md)
+- [Email-маркетинг: UniSender, DashaMail, Mailchimp](./email-marketing.md)
+- [Маркетинговая аналитика: Метрика, GA4, Roistat, Amplitude](./marketing-analytics.md)
+
 ## Ключевые темы
 
 - **CRM и воронки продаж** — системы управления отношениями с клиентами
