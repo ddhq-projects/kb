@@ -1,0 +1,20 @@
+{
+  "name": "kb-ddpa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "NODE_ENV=production astro build",
+    "preview": "NODE_ENV=production astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.8",
+    "@astrojs/starlight": "^0.38.4",
+    "astro": "^6.1.9",
+    "starlight-auto-sidebar": "^0.3.0",
+    "starlight-theme-obsidian": "^0.4.1",
+    "typescript": "^5.9.3"
+  }
+}
