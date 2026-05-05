@@ -5,6 +5,7 @@ description: "Каталог всех страниц базы знаний по 
 
 ## AI-инструменты
 
+- [AI-инструменты: обзор раздела](./ai/index.md)
 - [AI-ассистенты и чат-боты: ChatGPT, Claude, Gemini, Grok](./ai/ai-assistants.md)
 - [LLM-модели для бизнеса: ChatGPT, Claude, Gemini](./ai/llm-models.md)
 - [AI для кода: Copilot, Cursor, Claude Code](./ai/ai-for-code.md)
@@ -46,8 +47,11 @@ description: "Каталог всех страниц базы знаний по 
 
 ## Бизнес
 
+- [Бизнес: обзор раздела](./business/index.md)
+
 ### Клиенты
 
+- [Клиенты: обзор подраздела](./business/clients/index.md)
 - [CRM-системы: AmoCRM, Bitrix24, HubSpot, ELMA365](./business/clients/crm-systems.md)
 - [Маркетинговые платформы: SEO, email, аналитика](./business/clients/marketing-platforms.md)
 - [SEO-инструменты: Serpstat, Keys.So, Semrush, Ahrefs](./business/clients/seo-tools.md)
@@ -62,40 +66,29 @@ description: "Каталог всех страниц базы знаний по 
 
 ### Процессы
 
+- [Процессы: обзор подраздела](./business/processes/index.md)
 - [Методологии управления: Agile, Scrum, Kanban](./business/processes/management-methodologies.md)
-- [Стратегическое планирование: OKR, V2MOM, North Star](./business/strategic-planning.md)
-- [Бережливое производство и Lean](./business/lean.md)
-- [Дизайн-мышление и Customer Development](./business/design-thinking.md)
-- [Управление знаниями в компании](./business/knowledge-management.md)
-- [Документирование процессов: playbooks и runbooks](./business/playbooks-runbooks.md)
 
 #### Автоматизация
 
+- [Автоматизация: обзор подраздела](./business/processes/automation/index.md)
 - [No-code платформы: Make, Zapier, n8n, Bubble, Webflow](./business/processes/automation/no-code-platforms.md)
-- [API-интеграции для бизнеса](./business/processes/automation/api-integrations.md)
-- [Автоматизация email и лидогенерации](./business/processes/automation/email-automation.md)
-- [Автоматизация социальных сетей](./business/processes/automation/social-media-automation.md)
-- [Автоматизация документооборота](./business/processes/automation/document-automation.md)
-- [Webhooks и event-driven архитектура](./business/processes/automation/webhooks.md)
 
 #### Коммуникации
 
+- [Коммуникации: обзор подраздела](./business/processes/communication/index.md)
 - [Корпоративные мессенджеры: Slack, Discord, Telegram](./business/processes/communication/corporate-messengers.md)
-- [Видеоконференции: Zoom, Google Meet, Whereby](./business/processes/communication/video-conferencing.md)
-- [Email для бизнеса: Gmail, Fastmail, ProtonMail](./business/processes/communication/business-email.md)
-- [Коллаборативные доски: Miro, FigJam, Excalidraw](./business/processes/communication/collaboration-boards.md)
-- [Асинхронная коммуникация: Loom, Yac, Threads](./business/processes/communication/async-communication.md)
-- [Внутренняя база знаний компании](./business/processes/communication/internal-knowledge-base.md)
 
 #### SaaS-сервисы
 
+- [SaaS-сервисы: обзор подраздела](./business/processes/saas/index.md)
 - [Финансы и бухгалтерия: сервисы для бизнеса](./business/processes/saas/finance-accounting.md)
 - [ERP и CRM-системы для бизнеса](./business/processes/saas/erp-crm-sistemy.md)
 - [Управление проектами: Jira, Linear, Height, YouGile](./business/processes/saas/project-management.md)
-- [HR и управление персоналом](./business/processes/saas/hr-tools.md)
 
 ### Персонал
 
+- [Персонал: обзор подраздела](./business/staff/index.md)
 - [Поиск и найм сотрудников: hh.ru, SuperJob, Хабр Карьера, ATS](./business/staff/poisk-i-najm.md)
 - [HRM/HRIS-системы: Битрикс24, 1С:ЗУП, SimpleOne, Saby](./business/staff/hrm-hris-systems.md)
 - [Онбординг и адаптация сотрудников](./business/staff/onbording-i-adaptaciya.md)
@@ -104,15 +97,15 @@ description: "Каталог всех страниц базы знаний по 
 
 ## Лайфстайл
 
+- [Образ жизни: обзор раздела](./lifestyle/index.md)
+
 ### Продуктивность
 
+- [Продуктивность: обзор подраздела](./lifestyle/productivity/index.md)
 - [Управление задачами: обзор сервисов](./lifestyle/productivity/task-management.md)
 - [Методологии продуктивности: GTD, PARA, Zettelkasten](./lifestyle/productivity/methodologies.md)
 - [Заметки и личная wiki: Notion, Obsidian, Anytype](./lifestyle/productivity/notes-and-wiki.md)
 - [Учёт личных финансов: Дзен-мани, CoinKeeper, Wallet](./lifestyle/productivity/personal-finance.md)
-- [Календари и планирование: Google Calendar, Cron, Fantastical](./lifestyle/productivity/calendars.md)
-- [Фокус и deep work: таймеры, блокировщики, режимы](./lifestyle/productivity/focus-tools.md)
-- [Читалки и Pocket-альтернативы](./lifestyle/productivity/read-later.md)
 
 ### Саморазвитие
 
@@ -148,17 +141,12 @@ description: "Каталог всех страниц базы знаний по 
 
 ## IT
 
-### Разработка (Development)
-
-- [Управление кодом: GitHub, GitLab, Gitea](./it/development/code-management.md)
-- [Базы данных как сервис: Supabase, Neon, Turso](./it/development/database-as-service.md)
-- [Dev-окружение: Docker, Dev Containers, CodeSpaces](./it/development/dev-environment.md)
+- [IT-инструменты: обзор раздела](./it/index.md)
 
 ### DevOps
 
+- [DevOps: обзор подраздела](./it/devops/index.md)
 - [Хостинг и деплой: Vercel, Railway, Fly.io](./it/devops/hosting-deploy.md)
-- [CI/CD: GitHub Actions, GitLab CI, Jenkins](./it/devops/ci-cd.md)
-- [Мониторинг и observability: Grafana, Sentry, Datadog](./it/devops/monitoring.md)
 
 ### Безопасность (Security)
 

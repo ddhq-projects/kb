@@ -3,6 +3,37 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## 2026-05-05 maintenance | Аудит и чистка index.md — удаление битых ссылок, добавление hub-страниц
+
+### Удалено 28 битых ссылок из index.md
+
+Страницы не существовали на диске, ссылки вели на 404. Полный список в `local/removed-broken-links-2026-05-05.md`.
+
+Затронутые разделы:
+- **Бизнес → Процессы** (5): strategic-planning, lean, design-thinking, knowledge-management, playbooks-runbooks
+- **Автоматизация** (5): api-integrations, email-automation, social-media-automation, document-automation, webhooks
+- **Коммуникации** (5): video-conferencing, business-email, collaboration-boards, async-communication, internal-knowledge-base
+- **SaaS** (1): hr-tools
+- **Продуктивность** (3): calendars, focus-tools, read-later
+- **IT → Development** (3): code-management, database-as-service, dev-environment
+- **IT → DevOps** (2): ci-cd, monitoring
+
+### Добавлены hub-страницы в index.md
+
+Обнаружено 13 index.md-хабов с реальным контентом, отсутствовавших в главном индексе. Добавлены ссылки:
+- `ai/index.md`, `business/index.md`, `business/clients/index.md`, `business/processes/index.md`, `business/processes/automation/index.md`, `business/processes/communication/index.md`, `business/processes/saas/index.md`, `business/staff/index.md`, `lifestyle/index.md`, `lifestyle/productivity/index.md`, `it/index.md`, `it/devops/index.md`
+
+### Почищены битые ссылки в it/index.md
+
+- `it/index.md`: удалены секция «Разработка (Development)» и битые ссылки на CI/CD, monitoring
+- `it/development/index.md`: удалены все ссылки, заменены на заглушку «Страницы в разработке»
+- `it/devops/index.md`: удалены ci-cd, monitoring
+
+### Итого
+
+- Главный index.md: 67 → 79 живых ссылок, 0 битых
+- Все index.md-хабы подразделов: 0 битых ссылок
+
 ## 2026-05-05 ingest | raw/2026/0401 — MARKETING.md, стандарт и экосистема маркетинговых Agent Skills
 
 ### Созданные страницы
