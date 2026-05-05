@@ -54,8 +54,6 @@ raw/
     leisure/        # Досуг
   ai/               # AI-инструменты и сервисы
   dev/              # Dev-инструменты и сервисы
-  faq/              # FAQ и сравнения сервисов
-  cheatsheet/       # Шпаргалки и чек-листы
 ```
 
 ## Routing Rules
@@ -66,7 +64,6 @@ Use this mapping:
 - Answer from wiki pages -> `wiki-query`
 - Health audit -> `wiki-lint`
 - Revise existing content -> `wiki-update`
-- Create FAQ page -> `wiki-faq`
 - Download images for pages -> `wiki-images`
 
 If a request spans multiple operations, run them in this order:
@@ -110,7 +107,6 @@ These rules apply to all wiki-* skills:
 - `../wiki-query/SKILL.md`
 - `../wiki-lint/SKILL.md`
 - `../wiki-update/SKILL.md`
-- `../wiki-faq/SKILL.md`
 - `../wiki-images/SKILL.md`
 
 ## Trigger Phrases
