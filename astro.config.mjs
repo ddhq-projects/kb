@@ -34,7 +34,7 @@ export default defineConfig({
         },
       ],
       editLink: {
-        baseUrl: 'https://github.com/ddhq-projects/kb/edit/main/src/content/docs',
+        baseUrl: 'https://github.com/ddhq-projects/kb/blob/main',
       },
       social: [
         {
