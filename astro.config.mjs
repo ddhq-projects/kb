@@ -42,6 +42,11 @@ export default defineConfig({
           label: "GitHub",
           href: "https://github.com/ddhq-projects/kb",
         },
+        {
+          icon: "external",
+          label: "Сайт DDPA",
+          href: "https://ddpa.ru/",
+        },
       ],
       locales: {
         root: {
