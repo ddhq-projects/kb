@@ -44,33 +44,6 @@ description: "Каталог всех страниц базы знаний по 
 - [Генерация изображений: Midjourney, DALL-E, Stable Diffusion](./ai/image-generation.md)
 - [Локальные AI-модели: Ollama, LM Studio, llama.cpp](./ai/local-ai.md)
 
-## Автоматизация
-
-- [No-code платформы: Make, Zapier, n8n](./automation/no-code-platforms.md)
-- [API-интеграции для бизнеса](./automation/api-integrations.md)
-- [Автоматизация email и лидогенерации](./automation/email-automation.md)
-- [Автоматизация социальных сетей](./automation/social-media-automation.md)
-- [Автоматизация документооборота](./automation/document-automation.md)
-- [Webhooks и event-driven архитектура](./automation/webhooks.md)
-
-## Коммуникации
-
-- [Корпоративные мессенджеры: Slack, Discord, Telegram](./communication/corporate-messengers.md)
-- [Видеоконференции: Zoom, Google Meet, Whereby](./communication/video-conferencing.md)
-- [Email для бизнеса: Gmail, Fastmail, ProtonMail](./communication/business-email.md)
-- [Коллаборативные доски: Miro, FigJam, Excalidraw](./communication/collaboration-boards.md)
-- [Асинхронная коммуникация: Loom, Yac, Threads](./communication/async-communication.md)
-- [Внутренняя база знаний компании](./communication/internal-knowledge-base.md)
-
-## SaaS-сервисы
-
-- [CRM-системы: AmoCRM, Bitrix24, HubSpot](./saas/crm-systems.md)
-- [Финансы и бухгалтерия: сервисы для бизнеса](./saas/finance-accounting.md)
-- [Управление проектами: Jira, Linear, Height](./saas/project-management.md)
-- [HR и управление персоналом](./saas/hr-tools.md)
-- [Аналитика и дашборды: Amplitude, Mixpanel, Metabase](./saas/analytics-dashboards.md)
-- [Маркетинговые платформы](./saas/marketing-platforms.md)
-
 ## Бизнес
 
 ### Клиенты
@@ -89,6 +62,33 @@ description: "Каталог всех страниц базы знаний по 
 - [Дизайн-мышление и Customer Development](./business/design-thinking.md)
 - [Управление знаниями в компании](./business/knowledge-management.md)
 - [Документирование процессов: playbooks и runbooks](./business/playbooks-runbooks.md)
+
+#### Автоматизация
+
+- [No-code платформы: Make, Zapier, n8n](./business/processes/automation/no-code-platforms.md)
+- [API-интеграции для бизнеса](./business/processes/automation/api-integrations.md)
+- [Автоматизация email и лидогенерации](./business/processes/automation/email-automation.md)
+- [Автоматизация социальных сетей](./business/processes/automation/social-media-automation.md)
+- [Автоматизация документооборота](./business/processes/automation/document-automation.md)
+- [Webhooks и event-driven архитектура](./business/processes/automation/webhooks.md)
+
+#### Коммуникации
+
+- [Корпоративные мессенджеры: Slack, Discord, Telegram](./business/processes/communication/corporate-messengers.md)
+- [Видеоконференции: Zoom, Google Meet, Whereby](./business/processes/communication/video-conferencing.md)
+- [Email для бизнеса: Gmail, Fastmail, ProtonMail](./business/processes/communication/business-email.md)
+- [Коллаборативные доски: Miro, FigJam, Excalidraw](./business/processes/communication/collaboration-boards.md)
+- [Асинхронная коммуникация: Loom, Yac, Threads](./business/processes/communication/async-communication.md)
+- [Внутренняя база знаний компании](./business/processes/communication/internal-knowledge-base.md)
+
+#### SaaS-сервисы
+
+- [CRM-системы: AmoCRM, Bitrix24, HubSpot](./business/processes/saas/crm-systems.md)
+- [Финансы и бухгалтерия: сервисы для бизнеса](./business/processes/saas/finance-accounting.md)
+- [Управление проектами: Jira, Linear, Height](./business/processes/saas/project-management.md)
+- [HR и управление персоналом](./business/processes/saas/hr-tools.md)
+- [Аналитика и дашборды: Amplitude, Mixpanel, Metabase](./business/processes/saas/analytics-dashboards.md)
+- [Маркетинговые платформы](./business/processes/saas/marketing-platforms.md)
 
 ### Персонал
 
