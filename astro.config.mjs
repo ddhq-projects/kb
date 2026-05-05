@@ -21,6 +21,7 @@ export default defineConfig({
 
   integrations: [
     starlight({
+      plugins: [starlightAutoSidebar()],
       title: "База знаний DDPA",
       description: "Практическая база знаний по сервисам для бизнеса и личной продуктивности: AI-инструменты, автоматизация, управление задачами, коммуникации и SaaS-сервисы.",
       head: [
