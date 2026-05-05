@@ -3,14 +3,36 @@ title: "База знаний DDPA"
 description: "Каталог всех страниц базы знаний по сервисам для бизнеса и личной продуктивности"
 ---
 
-## Личная продуктивность
+## Образ жизни
 
-- [Управление задачами: обзор сервисов](./productivity/task-management.md)
-- [Методологии продуктивности: GTD, PARA, Zettelkasten](./productivity/methodologies.md)
-- [Заметки и личная wiki: Notion, Obsidian, Anytype](./productivity/notes-and-wiki.md)
-- [Календари и планирование: Google Calendar, Cron, Fantastical](./productivity/calendars.md)
-- [Фокус и deep work: таймеры, блокировщики, режимы](./productivity/focus-tools.md)
-- [Читалки и Pocket-альтернативы](./productivity/read-later.md)
+### Продуктивность
+
+- [Управление задачами: обзор сервисов](./lifestyle/productivity/task-management.md)
+- [Методологии продуктивности: GTD, PARA, Zettelkasten](./lifestyle/productivity/methodologies.md)
+- [Заметки и личная wiki: Notion, Obsidian, Anytype](./lifestyle/productivity/notes-and-wiki.md)
+- [Календари и планирование: Google Calendar, Cron, Fantastical](./lifestyle/productivity/calendars.md)
+- [Фокус и deep work: таймеры, блокировщики, режимы](./lifestyle/productivity/focus-tools.md)
+- [Читалки и Pocket-альтернативы](./lifestyle/productivity/read-later.md)
+
+### Саморазвитие
+
+- [Личностный рост и образование](./lifestyle/self-development/index.md)
+- [Навыки будущего](./lifestyle/self-development/index.md)
+
+### Здоровье
+
+- [Физическое и ментальное благополучие](./lifestyle/health/index.md)
+- [Фитнес и питание](./lifestyle/health/index.md)
+
+### Умный дом
+
+- [Организация пространства](./lifestyle/smart-home/index.md)
+- [Домашние дела и лайфхаки](./lifestyle/smart-home/index.md)
+
+### Досуг
+
+- [Хобби и развлечения](./lifestyle/leisure/index.md)
+- [Культура и путешествия](./lifestyle/leisure/index.md)
 
 ## AI-инструменты
 
