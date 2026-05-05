@@ -36,40 +36,24 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Личная продуктивность",
-          autogenerate: { directory: "productivity" },
-        },
-        {
           label: "AI-инструменты",
           autogenerate: { directory: "ai" },
         },
         {
-          label: "Автоматизация",
-          autogenerate: { directory: "automation" },
-        },
-        {
-          label: "Коммуникации",
-          autogenerate: { directory: "communication" },
-        },
-        {
-          label: "SaaS-сервисы",
-          autogenerate: { directory: "saas" },
-        },
-        {
-          label: "Бизнес-процессы",
+          label: "Бизнес",
           autogenerate: { directory: "business" },
         },
         {
-          label: "Dev-инструменты",
-          autogenerate: { directory: "dev" },
+          label: "Лайфстайл",
+          autogenerate: { directory: "lifestyle" },
         },
         {
-          label: "FAQ и сравнения",
-          autogenerate: { directory: "faq" },
+          label: "Госуслуги",
+          autogenerate: { directory: "gov" },
         },
         {
-          label: "Шпаргалки и чеклисты",
-          autogenerate: { directory: "cheatsheet" },
+          label: "IT",
+          autogenerate: { directory: "it" },
         },
       ],
     }),
