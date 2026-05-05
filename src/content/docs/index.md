@@ -71,7 +71,17 @@ description: "Каталог всех страниц базы знаний по 
 - [Аналитика и дашборды: Amplitude, Mixpanel, Metabase](./saas/analytics-dashboards.md)
 - [Маркетинговые платформы](./saas/marketing-platforms.md)
 
-## Бизнес-процессы
+## Бизнес
+
+### Клиенты
+
+- [CRM, маркетинг, продажи, поддержка](./business/clients/index.md)
+
+### Финансы
+
+- [Учёт, бюджетирование, финмодели, отчётность](./business/finance/index.md)
+
+### Процессы
 
 - [Методологии управления: Agile, Scrum, Kanban](./business/management-methodologies.md)
 - [Стратегическое планирование: OKR, V2MOM, North Star](./business/strategic-planning.md)
@@ -79,6 +89,10 @@ description: "Каталог всех страниц базы знаний по 
 - [Дизайн-мышление и Customer Development](./business/design-thinking.md)
 - [Управление знаниями в компании](./business/knowledge-management.md)
 - [Документирование процессов: playbooks и runbooks](./business/playbooks-runbooks.md)
+
+### Персонал
+
+- [Найм, онбординг, мотивация, HR](./business/staff/index.md)
 
 ## Dev-инструменты
 
