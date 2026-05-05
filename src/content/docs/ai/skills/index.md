@@ -44,6 +44,7 @@ npx skills add vercel-labs/skills/find-skills
 
 ## См. также
 
+- [Маркетинговые Agent Skills](../marketing/marketing-skills.md) — специализированные скиллы для AI-маркетинга
 - [AGENTS.md и контекст-файлы для AI](../agents/index.md) — сравнение AGENTS.md, CLAUDE.md, SKILL.md и других форматов
 - [AI для кода: Copilot, Cursor, Claude Code](../ai-for-code.md) — инструменты, которые используют Agent Skills
 - [AI-агенты и автоматизация](../ai-agents.md) — платформы и фреймворки AI-агентов

@@ -24,6 +24,13 @@ description: "Каталог всех страниц базы знаний по 
 - [DESIGN.md — рабочий пайплайн](./ai/design/design-md-workflow.md)
 - [Обзор AI-инструментов для дизайна](./ai/design/ai-design-tools.md)
 
+### AI-маркетинг
+
+- [AI-маркетинг: MARKETING.md и агентные скиллы](./ai/marketing/index.md)
+- [MARKETING.md — новый стандарт AI-маркетинга](./ai/marketing/marketing-md.md)
+- [MARKETING.md — спецификация и архитектура](./ai/marketing/marketing-md-standard.md)
+- [Маркетинговые Agent Skills](./ai/marketing/marketing-skills.md)
+
 ### AI Agents и контекст-файлы
 
 - [AGENTS.md и контекст-файлы для AI](./ai/agents/index.md)

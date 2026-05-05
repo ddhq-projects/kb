@@ -156,6 +156,7 @@ npx @google/design.md export --format dtcg DESIGN.md
 
 ## См. также
 
+- [MARKETING.md — новый стандарт AI-маркетинга](../marketing/marketing-md.md) — маркетинговый аналог DESIGN.md
 - [AGENTS.md — формат инструкций для AI-агентов](../agents/agents-md.md) — как AGENTS.md дополняет DESIGN.md в проекте
 - [Сравнение контекст-файлов](../agents/context-files-ecosystem.md) — DESIGN.md в экосистеме контекст-файлов
 - [AI-дизайн: инструменты и форматы](./index.md) — индексная страница раздела

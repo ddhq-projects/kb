@@ -3,6 +3,28 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## 2026-05-05 ingest | raw/2026/0401 — MARKETING.md, стандарт и экосистема маркетинговых Agent Skills
+
+### Созданные страницы
+
+- **`ai/marketing/index.md`**: хаб-страница раздела «AI-маркетинг: MARKETING.md и агентные скиллы»
+- **`ai/marketing/marketing-md.md`**: MARKETING.md — новый стандарт AI-маркетинга: что это, зачем, структура, примеры, сценарии
+- **`ai/marketing/marketing-md-standard.md`**: MARKETING.md — спецификация и архитектура: двухуровневая arch (core + 15 companion), ключевые принципы, Approved Claims Library, autonomy tiers
+- **`ai/marketing/marketing-skills.md`**: экосистема маркетинговых Agent Skills: coreyhaines31/marketingskills (7.5k+ ⭐), kostja94/marketing-skills (160+ skills), Microsoft Agent Framework, сравнение контекст-файлов
+
+### Обновлённые страницы
+
+- `index.md`: добавлен раздел «AI-маркетинг» с 4 ссылками
+- `ai/design/design-md.md`: cross-link на MARKETING.md как маркетинговый аналог
+- `ai/skills/index.md`: cross-link на маркетинговые Agent Skills
+- `ai/ai-content-marketing.md`: добавлен блок «MARKETING.md и agentic маркетинг» со ссылками
+
+### Источники
+
+- `raw/2026/0401/MARKETING.md`
+- `raw/2026/0401/MARKETING-MD-STANDARD-README.md`
+- `raw/2026/0401/MARKETING-MD-CASES-AND-SKILLS.md`
+
 ## 2026-05-05 ingest | raw/2026/0501 — Agent Skills: SKILL.md, каталоги, официальные экосистемы
 
 ### Созданные страницы
