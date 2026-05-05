@@ -56,6 +56,14 @@ description: "Сравнение AI-инструментов для разраб
 - **Claude Code** — для сложных автономных задач (рефакторинг, миграции)
 - **Windsurf** — бюджетная альтернатива Cursor
 
+## См. также
+
+- [AGENTS.md — формат инструкций для AI-агентов](./agents/agents-md.md) — стандарт контекст-файлов
+- [Сравнение контекст-файлов](./agents/context-files-ecosystem.md) — AGENTS.md vs CLAUDE.md vs .cursorrules
+- [Agent Skills для AI](./skills/index.md) — SKILL.md, каталоги, экосистемы скиллов
+- [DESIGN.md — формат дизайн-систем для AI](./design/design-md.md) — как AI-агенты используют DESIGN.md для UI
+- [AI-агенты и автоматизация](./ai-agents.md)
+
 ## Материалы и источники
 
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)

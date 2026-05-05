@@ -15,3 +15,10 @@ description: "Обзор AI-сервисов и инструментов для 
 - [AI-генераторы сайтов и лендингов](./ai-website-builders.md)
 - [AI-генераторы презентаций](./ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./local-ai.md)
+
+### AI-дизайн
+
+- [AI-дизайн: инструменты и форматы](./design/index.md)
+- [DESIGN.md — формат дизайн-систем для AI](./design/design-md.md)
+- [DESIGN.md — рабочий пайплайн](./design/design-md-workflow.md)
+- [Обзор AI-инструментов для дизайна](./design/ai-design-tools.md)

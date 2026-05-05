@@ -3,6 +3,74 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## 2026-05-05 ingest | raw/2026/0501 — Agent Skills: SKILL.md, каталоги, официальные экосистемы
+
+### Созданные страницы
+
+- **`ai/skills/index.md`**: индексная страница раздела «Agent Skills для AI» — progressive disclosure, где работают, установка
+- **`ai/skills/skill-md.md`**: SKILL.md — формат и спецификация: YAML frontmatter, структура директории, progressive disclosure, best practices, безопасность, создание своих скиллов
+- **`ai/skills/skills-directories.md`**: каталоги и репозитории — skills.sh (1.3M+ установок), agentskills.io, GitHub awesome-листы (VoltAgent 1000+, alirezarezvani 232+), ClawHub (5,700+), топ паблишеров и категорий
+- **`ai/skills/official-skills.md`**: официальные экосистемы — Laravel Agent Skills (3 official + 143 community), WordPress Agent Skills (16 official), OpenClaw skills (расширенные метаданные, gating, автоустановщик), сравнение
+
+### Обновлённые страницы
+
+- `index.md`: добавлен раздел «Agent Skills» с 4 ссылками
+- `ai/agents/context-files-ecosystem.md`: добавлены cross-links на Agent Skills
+- `ai/ai-for-code.md`: добавлен cross-link на Agent Skills
+- `ai/ai-agents.md`: добавлен блок «См. также» со ссылкой на Agent Skills
+
+### Источники
+
+- `raw/2026/0501/skill-md-what-is-it.md` (Anthropic Engineering Blog, Claude Platform Docs, agentskills.io)
+- `raw/2026/0501/skills-marketplaces-directory.md` (skills.sh, agentskills.io, GitHub)
+- `raw/2026/0501/top-github-skills-repos.md` (VoltAgent, alirezarezvani, ComposioHQ, BehiSecc)
+- `raw/2026/0501/official-skills-laravel-wordpress.md` (Laravel Agent Skills, WordPress Agent Skills)
+- `raw/2026/0501/openclaw-skills-overview.md` (OpenClaw docs, ClawHub)
+
+## 2026-05-05 ingest | raw/2026/0502 — AGENTS.md и экосистема контекст-файлов для AI
+
+### Созданные страницы
+
+- **`ai/agents/index.md`**: индексная страница раздела «AI Agents и контекст-файлы»
+- **`ai/agents/agents-md.md`**: AGENTS.md — формат, механика автодисковери, иерархия в монорепозиториях, 6 ключевых секций, best practices, влияние на качество (снижение багов 35-55%), FAQ
+- **`ai/agents/context-files-ecosystem.md`**: сравнительная таблица AGENTS.md vs CLAUDE.md vs SKILL.md vs .cursorrules vs DESIGN.md, слоистая архитектура, паттерны совместимости, 30+ поддерживающих инструментов
+
+### Обновлённые страницы
+
+- `index.md`: добавлен раздел «AI Agents и контекст-файлы» с 3 ссылками
+- `ai/ai-for-code.md`: добавлены cross-links на agents/agents-md.md и agents/context-files-ecosystem.md
+- `ai/ai-agents.md`: добавлен блок «См. также» со ссылками на agents/
+- `ai/design/design-md.md`: добавлен блок «См. также» со ссылками на agents/
+
+### Источники
+
+- `raw/2026/0502/agents-md-what-is-it.md` (AGENTS.md spec, OpenAI Codex Docs, GitHub Blog, InfoQ)
+- `raw/2026/0502/agents-md-ecosystem-comparison.md` (agents.md, Augment Code, Agensi, Claude Platform Docs)
+- `raw/2026/0502/agents-md-tools-ecosystem.md` (сводный обзор экосистемы, AAIF, 18 инструментов)
+
+## 2026-05-05 ingest | raw/2026/0503 — AI-дизайн: DESIGN.md и обзор инструментов
+
+### Созданные страницы
+
+- **`ai/design/index.md`**: индексная страница раздела AI-дизайн
+- **`ai/design/design-md.md`**: DESIGN.md — формат, структура (YAML frontmatter + Markdown body), типы токенов, CLI-инструменты, экосистема (awesome-design-md, designmd.ai, TypeUI), отличие от полноценной дизайн-системы
+- **`ai/design/design-md-workflow.md`**: практический пайплайн — генерация в Google Stitch → экспорт DESIGN.md → интеграция с Claude Code/CLAUDE.md → аудит → версионирование, частые ошибки
+- **`ai/design/ai-design-tools.md`**: обзор 7 AI-инструментов (Pencil.dev, Google Stitch 2.0, Claude Design, OpenAI Codex, v0.dev, Uizard, Figma AI) со сравнительной таблицей
+
+### Обновлённые страницы
+
+- `index.md`: добавлен раздел «AI-дизайн» с 4 ссылками на новые страницы
+
+### Источники
+
+- `raw/2026/0503/design-md-official-spec.md` (Google Labs, Apache-2.0 spec)
+- `raw/2026/0503/design-md-explained-substack.md` (Department of Product)
+- `raw/2026/0503/design-md-typeui-anatomy.md` (TypeUI/Flowbite)
+- `raw/2026/0503/design-md-banani-guide.md` (Banani AI)
+- `raw/2026/0503/design-md-claude-code-workflow.md` (MindStudio)
+- `raw/2026/0503/design-md-mindstudio-deep-dive.md` (MindStudio)
+- `raw/2026/0503/ai-design-tools-overview.md` (сводный обзор)
+
 ## 2026-05-05 ingest | raw/2026/0505 — трендовые сервисы 2025-2026 (мир + Россия)
 
 ### Созданные страницы
