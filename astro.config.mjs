@@ -23,8 +23,8 @@ export default defineConfig({
           tag: "link",
           attrs: {
             rel: "icon",
-            type: "image/png",
-            href: "/kb/favicon.png",
+            type: "image/svg+xml",
+            href: "/kb/icon.svg",
           },
         },
       ],

@@ -2,8 +2,6 @@
 
 LLM Wiki schema for the DDPA knowledge base — сервисы для бизнеса и личной продуктивности.
 
-> **⚠️ FETCH RULE:** Для получения ЛЮБОГО контента с URL всегда используй `summarize "URL" --extract --format md`. Не используй `web_fetch`, `browser`, или другие инструменты для первичного извлечения — только `summarize`. Fallback: `web_fetch` допустим только если `summarize` упал с ошибкой.
-
 ## Wiki Structure
 
 ```
