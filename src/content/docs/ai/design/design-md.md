@@ -156,6 +156,7 @@ npx @google/design.md export --format dtcg DESIGN.md
 
 ## См. также
 
+- [Design as Code — дизайн-токены и архитектура](./design-as-code.md) — upstream-парадигма: Design Tokens, W3C DTCG, Style Dictionary
 - [MARKETING.md — новый стандарт AI-маркетинга](../marketing/marketing-md.md) — маркетинговый аналог DESIGN.md
 - [AGENTS.md — формат инструкций для AI-агентов](../agents/agents-md.md) — как AGENTS.md дополняет DESIGN.md в проекте
 - [Сравнение контекст-файлов](../agents/context-files-ecosystem.md) — DESIGN.md в экосистеме контекст-файлов

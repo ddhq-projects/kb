@@ -21,6 +21,7 @@ description: "Каталог всех страниц базы знаний по 
 ### AI-дизайн
 
 - [AI-дизайн: инструменты и форматы](./ai/design/index.md)
+- [Design as Code — дизайн-токены и архитектура](./ai/design/design-as-code.md)
 - [DESIGN.md — формат дизайн-систем для AI](./ai/design/design-md.md)
 - [DESIGN.md — рабочий пайплайн](./ai/design/design-md-workflow.md)
 - [Обзор AI-инструментов для дизайна](./ai/design/ai-design-tools.md)
@@ -28,6 +29,7 @@ description: "Каталог всех страниц базы знаний по 
 ### AI-маркетинг
 
 - [AI-маркетинг: MARKETING.md и агентные скиллы](./ai/marketing/index.md)
+- [Marketing as Code — автономный AI-маркетинг](./ai/marketing/marketing-as-code.md)
 - [MARKETING.md — новый стандарт AI-маркетинга](./ai/marketing/marketing-md.md)
 - [MARKETING.md — спецификация и архитектура](./ai/marketing/marketing-md-standard.md)
 - [Маркетинговые Agent Skills](./ai/marketing/marketing-skills.md)

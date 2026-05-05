@@ -119,6 +119,12 @@ Persistent brand context files работают не только для UI:
 - Описания продуктов
 - Промпты для генерации изображений
 
+## См. также
+
+- [Design as Code — дизайн-токены и архитектура](./design-as-code.md) — upstream-парадигма Design Tokens и W3C DTCG
+- [DESIGN.md — формат дизайн-систем для AI](./design-md.md) — спецификация формата
+- [AI-дизайн: инструменты и форматы](./index.md) — индексная страница раздела
+
 → любой AI workflow, нуждающийся в brand consistency.
 
 ## См. также

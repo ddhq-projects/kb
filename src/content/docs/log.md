@@ -3,6 +3,28 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## 2026-05-05 ingest | raw/2026/0403 — Design as Code и Marketing as Code
+
+### Созданные страницы
+
+- **`ai/design/design-as-code.md`**: Design as Code — подход к дизайну через версионированные токены (W3C DTCG), автоматически генерирующие стили для всех платформ. Design Tokens (Option → Decision → Component), инструменты (Tokens Studio, Style Dictionary, Figma Make), пошаговое построение токен-системы, Martin Fowler (Thoughtworks) архитектура, бизнес-кейс (+32% revenue), сравнение с DESIGN.md.
+- **`ai/marketing/marketing-as-code.md`**: Marketing as Code (MaC) — автономный AI-маркетинг: objectives & guardrails, 5 ролей агентов (Mayfield), кейсы (Firecrawl/Claude Code, Pushwoosh +40% revenue), IBM research (72% провалов без интеграции), сравнение с MARKETING.md.
+
+### Обновлённые страницы
+
+- `ai/design/index.md`: добавлена ссылка на Design as Code в новую секцию «Парадигмы дизайна для AI»
+- `ai/marketing/index.md`: добавлена ссылка на Marketing as Code первой в списке
+- `ai/design/design-md.md`: cross-link на Design as Code как upstream-парадигму
+- `ai/design/design-md-workflow.md`: cross-link на Design as Code
+- `ai/marketing/marketing-md.md`: cross-link на Marketing as Code
+- `ai/marketing/marketing-skills.md`: cross-link на Marketing as Code
+- `index.md`: добавлены ссылки в разделы «AI-дизайн» и «AI-маркетинг»
+
+### Источники
+
+- `raw/2026/0403/design-as-code.md` (Martin Fowler, Contentful, Browser London, MaterialUI)
+- `raw/2026/0403/marketing-as-code.md` (Marchcroft, Mayfield, Firecrawl, Pushwoosh)
+
 ## 2026-05-05 ingest | raw/2026/0402/infrastructure-as-code.md — Infrastructure as Code (IaC)
 
 ### Созданные страницы

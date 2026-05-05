@@ -132,6 +132,7 @@ description: "Экосистема Agent Skills для маркетинга: cor
 
 ## Связанные страницы
 
+- [Marketing as Code — автономный AI-маркетинг](./marketing-as-code.md) — парадигма автономных агентов в маркетинге
 - [MARKETING.md — новый стандарт AI-маркетинга](./marketing-md.md) — что такое MARKETING.md и зачем он нужен
 - [MARKETING.md — спецификация и архитектура](./marketing-md-standard.md) — двухуровневая архитектура и ключевые принципы
 - [Agent Skills для AI](../skills/index.md) — общий обзор Agent Skills

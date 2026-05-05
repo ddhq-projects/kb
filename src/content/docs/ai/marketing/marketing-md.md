@@ -156,6 +156,7 @@ Cursor, Claude Code, Copilot, внутренние AI-агенты — все и
 
 ## Связанные страницы
 
+- [Marketing as Code — автономный AI-маркетинг](./marketing-as-code.md) — парадигма, для которой MARKETING.md служит конфигом
 - [MARKETING.md — спецификация и архитектура](./marketing-md-standard.md) — двухуровневая структура, companion files, ключевые принципы
 - [Маркетинговые Agent Skills](./marketing-skills.md) — экосистема скиллов для AI-маркетинга
 - [DESIGN.md — формат дизайн-систем для AI](../design/design-md.md) — дизайновый аналог MARKETING.md

@@ -7,6 +7,7 @@ description: "Новый стандарт AI-маркетинга: MARKETING.md 
 
 ## Страницы раздела
 
+- [Marketing as Code — автономный AI-маркетинг](./marketing-as-code.md) — парадигма автономных AI-агентов в маркетинге: objectives & guardrails, 5 ролей агентов, кейсы
 - [MARKETING.md — новый стандарт AI-маркетинга](./marketing-md.md) — что это, зачем нужно, структура, примеры, сценарии
 - [MARKETING.md — спецификация и архитектура](./marketing-md-standard.md) — двухуровневая архитектура с companion-файлами, ключевые принципы, autonomy tiers
 - [Маркетинговые Agent Skills](./marketing-skills.md) — экосистема скиллов: coreyhaines31, kostja94, Microsoft Agent Framework, сравнение с MARKETING.md
