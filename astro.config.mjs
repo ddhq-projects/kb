@@ -33,6 +33,16 @@ export default defineConfig({
           },
         },
       ],
+      editLink: {
+        baseUrl: 'https://github.com/ddhq-projects/kb/tree/main',
+      },
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/ddhq-projects/kb",
+        },
+      ],
       locales: {
         root: {
           label: "Русский",
