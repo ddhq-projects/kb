@@ -146,6 +146,7 @@ description: "Каталог всех страниц базы знаний по 
 ### DevOps
 
 - [DevOps: обзор подраздела](./it/devops/index.md)
+- [Infrastructure as Code (IaC): Terraform, Pulumi, Ansible, OpenTofu](./it/devops/infrastructure-as-code.md)
 - [Хостинг и деплой: Vercel, Railway, Fly.io](./it/devops/hosting-deploy.md)
 
 ### Безопасность (Security)

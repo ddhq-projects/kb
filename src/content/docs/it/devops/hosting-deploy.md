@@ -62,3 +62,7 @@ description: "Сравнение облачных платформ для хос
 - [Fly.io Docs](https://fly.io/docs/)
 - [Netlify Docs](https://docs.netlify.com/)
 - [DigitalOcean App Platform Docs](https://docs.digitalocean.com/products/app-platform/)
+
+## См. также
+
+- [Infrastructure as Code (IaC)](./infrastructure-as-code.md) — управление облачной инфраструктурой через код

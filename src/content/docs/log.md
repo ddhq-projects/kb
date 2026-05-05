@@ -3,6 +3,18 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## 2026-05-05 ingest | raw/2026/0402/infrastructure-as-code.md — Infrastructure as Code (IaC)
+
+### Созданные страницы
+
+- **`it/devops/infrastructure-as-code.md`**: Infrastructure as Code (IaC) — управление IT-инфраструктурой через код. Три подхода (декларативный, императивный, гибридный), топ инструментов (Terraform/OpenTofu, Pulumi, Ansible, Crossplane, Helm), российский контекст (Yandex Cloud, VK Cloud, Selectel, Cloud.ru, Deckhouse), сценарии, best practices, сравнение с PaaS.
+
+### Обновлённые страницы
+
+- `it/devops/index.md`: добавлена ссылка на инфраструктуру как код
+- `it/devops/hosting-deploy.md`: добавлен cross-link на IaC в секцию «См. также»
+- `index.md`: добавлена ссылка в раздел «IT → DevOps»
+
 ## 2026-05-05 maintenance | Аудит и чистка index.md — удаление битых ссылок, добавление hub-страниц
 
 ### Удалено 28 битых ссылок из index.md
