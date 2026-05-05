@@ -3,38 +3,6 @@ title: "База знаний DDPA"
 description: "Каталог всех страниц базы знаний по сервисам для бизнеса и личной продуктивности"
 ---
 
-## Образ жизни
-
-### Продуктивность
-
-- [Управление задачами: обзор сервисов](./lifestyle/productivity/task-management.md)
-- [Методологии продуктивности: GTD, PARA, Zettelkasten](./lifestyle/productivity/methodologies.md)
-- [Заметки и личная wiki: Notion, Obsidian, Anytype](./lifestyle/productivity/notes-and-wiki.md)
-- [Учёт личных финансов: Дзен-мани, CoinKeeper, Wallet](./lifestyle/productivity/personal-finance.md)
-- [Календари и планирование: Google Calendar, Cron, Fantastical](./lifestyle/productivity/calendars.md)
-- [Фокус и deep work: таймеры, блокировщики, режимы](./lifestyle/productivity/focus-tools.md)
-- [Читалки и Pocket-альтернативы](./lifestyle/productivity/read-later.md)
-
-### Саморазвитие
-
-- [Личностный рост и образование](./lifestyle/self-development/index.md)
-- [Навыки будущего](./lifestyle/self-development/index.md)
-
-### Здоровье
-
-- [Фитнес-приложения: тренировки, питание, здоровье](./lifestyle/health/fitness-apps.md)
-- [Физическое и ментальное благополучие](./lifestyle/health/index.md)
-
-### Умный дом
-
-- [Организация пространства](./lifestyle/smart-home/index.md)
-- [Домашние дела и лайфхаки](./lifestyle/smart-home/index.md)
-
-### Досуг
-
-- [Хобби и развлечения](./lifestyle/leisure/index.md)
-- [Культура и путешествия](./lifestyle/leisure/index.md)
-
 ## AI-инструменты
 
 - [AI-ассистенты и чат-боты: ChatGPT, Claude, Gemini, Grok](./ai/ai-assistants.md)
@@ -107,7 +75,51 @@ description: "Каталог всех страниц базы знаний по 
 - [Корпоративное обучение и LMS](./business/staff/korporativnoe-obuchenie-lms.md)
 - [WordPress LMS-плагины: LearnDash, LifterLMS, Tutor LMS](./business/staff/wordpress-lms-plugins.md)
 
-## IT-инструменты
+## Лайфстайл
+
+### Продуктивность
+
+- [Управление задачами: обзор сервисов](./lifestyle/productivity/task-management.md)
+- [Методологии продуктивности: GTD, PARA, Zettelkasten](./lifestyle/productivity/methodologies.md)
+- [Заметки и личная wiki: Notion, Obsidian, Anytype](./lifestyle/productivity/notes-and-wiki.md)
+- [Учёт личных финансов: Дзен-мани, CoinKeeper, Wallet](./lifestyle/productivity/personal-finance.md)
+- [Календари и планирование: Google Calendar, Cron, Fantastical](./lifestyle/productivity/calendars.md)
+- [Фокус и deep work: таймеры, блокировщики, режимы](./lifestyle/productivity/focus-tools.md)
+- [Читалки и Pocket-альтернативы](./lifestyle/productivity/read-later.md)
+
+### Саморазвитие
+
+- [Личностный рост и образование](./lifestyle/self-development/index.md)
+- [Навыки будущего](./lifestyle/self-development/index.md)
+
+### Здоровье
+
+- [Фитнес-приложения: тренировки, питание, здоровье](./lifestyle/health/fitness-apps.md)
+- [Физическое и ментальное благополучие](./lifestyle/health/index.md)
+
+### Умный дом
+
+- [Организация пространства](./lifestyle/smart-home/index.md)
+- [Домашние дела и лайфхаки](./lifestyle/smart-home/index.md)
+
+### Досуг
+
+- [Хобби и развлечения](./lifestyle/leisure/index.md)
+- [Культура и путешествия](./lifestyle/leisure/index.md)
+
+## Госуслуги
+
+- [Обзор государственных онлайн-услуг](./gov/index.md)
+- [Образование и наука: школа, вуз, аттестат](./gov/education-science.md)
+- [Налоги и финансы: 3-НДФЛ, вычеты, УСН](./gov/taxes-finance.md)
+- [Транспорт и ГИБДД: права, регистрация авто, штрафы](./gov/transport.md)
+- [ЖКХ и жильё: субсидии, льготы, оплата ЖКУ](./gov/housing-utilities.md)
+- [Паспорта, визы, ЗАГС, регистрация](./gov/citizenship-visas.md)
+- [Здоровье и соцподдержка: ОМС, пенсии, льготы](./gov/healthcare-social.md)
+- [Штрафы и безопасность: ГИБДД, обжалование, суды](./gov/law-enforcement.md)
+- [Бизнес и предпринимательство: ИП, ООО, лицензии](./gov/business.md)
+
+## IT
 
 ### Разработка (Development)
 
@@ -124,17 +136,5 @@ description: "Каталог всех страниц базы знаний по 
 ### Безопасность (Security)
 
 - [Обзор инструментов информационной безопасности](./it/security/index.md)
-
-## Госуслуги РФ
-
-- [Обзор государственных онлайн-услуг](./gov/index.md)
-- [Образование и наука: школа, вуз, аттестат](./gov/education-science.md)
-- [Налоги и финансы: 3-НДФЛ, вычеты, УСН](./gov/taxes-finance.md)
-- [Транспорт и ГИБДД: права, регистрация авто, штрафы](./gov/transport.md)
-- [ЖКХ и жильё: субсидии, льготы, оплата ЖКУ](./gov/housing-utilities.md)
-- [Паспорта, визы, ЗАГС, регистрация](./gov/citizenship-visas.md)
-- [Здоровье и соцподдержка: ОМС, пенсии, льготы](./gov/healthcare-social.md)
-- [Штрафы и безопасность: ГИБДД, обжалование, суды](./gov/law-enforcement.md)
-- [Бизнес и предпринимательство: ИП, ООО, лицензии](./gov/business.md)
 
 
