@@ -12,4 +12,6 @@ description: "Обзор AI-сервисов и инструментов для 
 - [AI для контента и маркетинга](./ai-content-marketing.md)
 - [AI в поиске: Perplexity, SearchGPT, You.com](./ai-search.md)
 - [AI-генерация медиа: изображения, видео, аудио](./ai-media-generation.md)
+- [AI-генераторы сайтов и лендингов](./ai-website-builders.md)
+- [AI-генераторы презентаций](./ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./local-ai.md)

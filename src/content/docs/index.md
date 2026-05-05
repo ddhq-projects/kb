@@ -10,6 +10,7 @@ description: "Каталог всех страниц базы знаний по 
 - [Управление задачами: обзор сервисов](./lifestyle/productivity/task-management.md)
 - [Методологии продуктивности: GTD, PARA, Zettelkasten](./lifestyle/productivity/methodologies.md)
 - [Заметки и личная wiki: Notion, Obsidian, Anytype](./lifestyle/productivity/notes-and-wiki.md)
+- [Учёт личных финансов: Дзен-мани, CoinKeeper, Wallet](./lifestyle/productivity/personal-finance.md)
 - [Календари и планирование: Google Calendar, Cron, Fantastical](./lifestyle/productivity/calendars.md)
 - [Фокус и deep work: таймеры, блокировщики, режимы](./lifestyle/productivity/focus-tools.md)
 - [Читалки и Pocket-альтернативы](./lifestyle/productivity/read-later.md)
@@ -21,8 +22,8 @@ description: "Каталог всех страниц базы знаний по 
 
 ### Здоровье
 
+- [Фитнес-приложения: тренировки, питание, здоровье](./lifestyle/health/fitness-apps.md)
 - [Физическое и ментальное благополучие](./lifestyle/health/index.md)
-- [Фитнес и питание](./lifestyle/health/index.md)
 
 ### Умный дом
 
@@ -43,6 +44,8 @@ description: "Каталог всех страниц базы знаний по 
 - [AI для контента и маркетинга](./ai/ai-content-marketing.md)
 - [AI в поиске: Perplexity, SearchGPT, You.com](./ai/ai-search.md)
 - [AI-генерация медиа: изображения, видео, аудио](./ai/ai-media-generation.md)
+- [AI-генераторы сайтов и лендингов](./ai/ai-website-builders.md)
+- [AI-генераторы презентаций](./ai/ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./ai/local-ai.md)
 
 ## Бизнес
@@ -66,7 +69,7 @@ description: "Каталог всех страниц базы знаний по 
 
 #### Автоматизация
 
-- [No-code платформы: Make, Zapier, n8n](./business/processes/automation/no-code-platforms.md)
+- [No-code платформы: Make, Zapier, n8n, Bubble, Webflow](./business/processes/automation/no-code-platforms.md)
 - [API-интеграции для бизнеса](./business/processes/automation/api-integrations.md)
 - [Автоматизация email и лидогенерации](./business/processes/automation/email-automation.md)
 - [Автоматизация социальных сетей](./business/processes/automation/social-media-automation.md)
@@ -84,39 +87,47 @@ description: "Каталог всех страниц базы знаний по 
 
 #### SaaS-сервисы
 
-- [CRM-системы: AmoCRM, Bitrix24, HubSpot](./business/processes/saas/crm-systems.md)
+- [CRM-системы: AmoCRM, Bitrix24, HubSpot, ELMA365](./business/processes/saas/crm-systems.md)
+- [Маркетинговые платформы: SEO, email, аналитика](./business/processes/saas/marketing-platforms.md)
+- [SEO-инструменты: Serpstat, Keys.So, Semrush, Ahrefs](./business/processes/saas/seo-tools.md)
+- [Email-маркетинг: UniSender, DashaMail, Mailchimp](./business/processes/saas/email-marketing.md)
+- [Маркетинговая аналитика: Метрика, GA4, Roistat, Amplitude](./business/processes/saas/marketing-analytics.md)
 - [Финансы и бухгалтерия: сервисы для бизнеса](./business/processes/saas/finance-accounting.md)
-- [Управление проектами: Jira, Linear, Height](./business/processes/saas/project-management.md)
+- [Управление проектами: Jira, Linear, Height, YouGile](./business/processes/saas/project-management.md)
 - [HR и управление персоналом](./business/processes/saas/hr-tools.md)
-- [Аналитика и дашборды: Amplitude, Mixpanel, Metabase](./business/processes/saas/analytics-dashboards.md)
-- [Маркетинговые платформы](./business/processes/saas/marketing-platforms.md)
 
 ### Персонал
 
 - [Найм, онбординг, мотивация, HR](./business/staff/index.md)
 
-## Dev-инструменты
+## IT-инструменты
 
-- [Хостинг и деплой: Vercel, Railway, Fly.io](./dev/hosting-deploy.md)
-- [CI/CD: GitHub Actions, GitLab CI, Jenkins](./dev/ci-cd.md)
-- [Мониторинг и observability: Grafana, Sentry, Datadog](./dev/monitoring.md)
-- [Управление кодом: GitHub, GitLab, Gitea](./dev/code-management.md)
-- [Базы данных как сервис: Supabase, Neon, Turso](./dev/database-as-service.md)
-- [Dev-окружение: Docker, Dev Containers, CodeSpaces](./dev/dev-environment.md)
+### Разработка (Development)
 
-## FAQ и сравнения
+- [Управление кодом: GitHub, GitLab, Gitea](./it/development/code-management.md)
+- [Базы данных как сервис: Supabase, Neon, Turso](./it/development/database-as-service.md)
+- [Dev-окружение: Docker, Dev Containers, CodeSpaces](./it/development/dev-environment.md)
 
-- [Notion vs Obsidian vs Anytype: что выбрать](./faq/notion-vs-obsidian.md)
-- [ChatGPT vs Claude vs Gemini: сравнение](./faq/chatgpt-vs-claude.md)
-- [Make vs Zapier vs n8n: сравнение платформ](./faq/make-vs-zapier.md)
-- [Slack vs Discord vs Telegram для бизнеса](./faq/slack-vs-discord.md)
-- [CRM для малого бизнеса: сравнение](./faq/crm-comparison.md)
-- [Как вести базу знаний](./faq/knowledge-base-workflow.md)
+### DevOps
 
-## Шпаргалки и чеклисты
+- [Хостинг и деплой: Vercel, Railway, Fly.io](./it/devops/hosting-deploy.md)
+- [CI/CD: GitHub Actions, GitLab CI, Jenkins](./it/devops/ci-cd.md)
+- [Мониторинг и observability: Grafana, Sentry, Datadog](./it/devops/monitoring.md)
 
-- [Чеклист: запуск нового проекта](./cheatsheet/project-launch-checklist.md)
-- [Шпаргалка по Git](./cheatsheet/git-cheatsheet.md)
-- [Шпаргалка по Markdown](./cheatsheet/markdown-cheatsheet.md)
-- [Чек-лист безопасности для бизнеса](./cheatsheet/security-checklist.md)
-- [Шпаргалка по Docker](./cheatsheet/docker-cheatsheet.md)
+### Безопасность (Security)
+
+- [Обзор инструментов информационной безопасности](./it/security/index.md)
+
+## Госуслуги РФ
+
+- [Обзор государственных онлайн-услуг](./gov/index.md)
+- [Образование и наука: школа, вуз, аттестат](./gov/education-science.md)
+- [Налоги и финансы: 3-НДФЛ, вычеты, УСН](./gov/taxes-finance.md)
+- [Транспорт и ГИБДД: права, регистрация авто, штрафы](./gov/transport.md)
+- [ЖКХ и жильё: субсидии, льготы, оплата ЖКУ](./gov/housing-utilities.md)
+- [Паспорта, визы, ЗАГС, регистрация](./gov/citizenship-visas.md)
+- [Здоровье и соцподдержка: ОМС, пенсии, льготы](./gov/healthcare-social.md)
+- [Штрафы и безопасность: ГИБДД, обжалование, суды](./gov/law-enforcement.md)
+- [Бизнес и предпринимательство: ИП, ООО, лицензии](./gov/business.md)
+
+

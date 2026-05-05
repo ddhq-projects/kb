@@ -61,6 +61,14 @@ AI-ассистенты — это потребительские продукт
 - **Минусы:** меньшая экосистема, ограниченная мультимодальность, вопросы к приватности
 - **Цена:** бесплатно
 
+### GigaChat (Сбер)
+- **Модели:** GigaChat 2.0
+- **Интерфейс:** веб, API
+- **Ключевые фичи:** российская экосистема, генерация изображений (Kandinsky), API для бизнеса, работа с документами
+- **Плюсы:** доступен в РФ без VPN, оплата российскими картами, 19M пользователей, интеграция с продуктами Сбера
+- **Минусы:** слабее ChatGPT/Claude по качеству, меньше международных интеграций
+- **Цена:** Free (ограничен) / API: от 1.5 ₽/1K токенов
+
 ## Сценарии использования
 
 | Задача | Рекомендация |
@@ -83,6 +91,7 @@ AI-ассистенты — это потребительские продукт
 | Grok | ✅ | ✅ (X) | ✅ | ⚠️ | ~128K |
 | Perplexity | ✅ | ✅ | ❌ | ✅ | ~128K |
 | DeepSeek | ✅ | ❌ | ❌ | ✅ | 128K |
+| GigaChat | ✅ | ✅ (Kandinsky) | ✅ | ✅ | ~128K |
 
 ## Материалы и источники
 
@@ -90,3 +99,8 @@ AI-ассистенты — это потребительские продукт
 - [VC.ru — 40 лучших ИИ инструментов 2025](https://vc.ru/ai/1735732-40-luchshih-ii-instrumentov-i-neirosetei-v-2025-godu)
 - [TechRadar — Best AI Tools](https://www.techradar.com/best/best-ai-tools)
 - [Zapier — Best AI Productivity Tools](https://zapier.com/blog/best-ai-productivity-tools/)
+- [VC.ru — 40 лучших ИИ-инструментов 2025](https://vc.ru/ai/1735732-40-luchshih-ii-instrumentov-i-neirosetei-v-2025-godu)
+- [Хабр — AI инструменты](https://habr.com/ru/articles/948672/)
+- [DTF — Топ-50 нейросетей](https://dtf.ru/id2164790/4003520-top-50-neyrosetey-2025)
+- [Bothub — обзор](https://habr.com/ru/companies/bothub/articles/992038/)
+- [Plaan AI — Топ-100 AI](https://plaan.ai/top-100-ai/)
