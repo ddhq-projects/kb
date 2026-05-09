@@ -69,7 +69,17 @@ description: "Каталог всех страниц базы знаний по 
 ### Процессы
 
 - [Процессы: обзор подраздела](./business/processes/index.md)
-- [Методологии управления: Agile, Scrum, Kanban](./business/processes/management-methodologies.md)
+- [Методологии управления: Agile, Scrum, Kanban, система флажков](./business/best-practices/index.md)
+
+### Практики и методологии
+
+- [Бизнес-практики и методологии](./business/best-practices/index.md)
+- [Agile — ценности и принципы](./business/best-practices/agile.md)
+- [Scrum — фреймворк для работы спринтами](./business/best-practices/scrum.md)
+- [Kanban — управление потоком задач](./business/best-practices/kanban.md)
+- [Scrumban — гибрид Scrum и Kanban](./business/best-practices/scrumban.md)
+- [Scrum vs Kanban vs Scrumban — как выбрать подход](./business/best-practices/scrumban-vs-scrum-vs-kanban.md)
+- [Система «флажков» — управление через чёткие цели](./business/best-practices/flag-system.md)
 
 #### Автоматизация
 
@@ -151,8 +161,18 @@ description: "Каталог всех страниц базы знаний по 
 - [Infrastructure as Code (IaC): Terraform, Pulumi, Ansible, OpenTofu](./it/devops/infrastructure-as-code.md)
 - [Хостинг и деплой: Vercel, Railway, Fly.io](./it/devops/hosting-deploy.md)
 
+### IT Best Practices и стандарты
+
+- [IT best-practices и стандарты](./it/best-practices/index.md)
+- [ITIL 4 — управление IT-сервисами через ценность](./it/best-practices/itil-itsm.md)
+- [COBIT 2019 — корпоративное управление I&T](./it/best-practices/cobit.md)
+- [ISO/IEC 20000 — стандарт системы менеджмента сервисов](./it/best-practices/iso-20000.md)
+- [ISO/IEC 38500:2024 — корпоративное управление ИТ](./it/best-practices/iso-38500-it-governance.md)
+- [Групповая динамика в командах разработки](./it/best-practices/group-dynamics-dev-teams.md)
+
 ### Безопасность (Security)
 
 - [Обзор инструментов информационной безопасности](./it/security/index.md)
+- [ISO/IEC 27001 — система управления информационной безопасностью](./it/security/iso-27001.md)
 
 
