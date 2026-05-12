@@ -24,6 +24,37 @@ export default defineConfig({
       plugins: [starlightAutoSidebar()],
       title: "База знаний DDPA",
       description: "Практическая база знаний по сервисам для бизнеса и личной продуктивности: AI-инструменты, автоматизация, управление задачами, коммуникации и SaaS-сервисы.",
+      sidebar: [
+        {
+          label: "AI-инструменты",
+          collapsed: true,
+          autogenerate: { directory: "ai" },
+        },
+        {
+          label: "Бизнес",
+          collapsed: true,
+
+          autogenerate: { directory: "business" },
+        },
+        {
+          label: "Лайфстайл",
+          collapsed: true,
+
+          autogenerate: { directory: "lifestyle" },
+        },
+        {
+          label: "Госуслуги",
+          collapsed: true,
+
+          autogenerate: { directory: "gov" },
+        },
+        {
+          label: "IT",
+          collapsed: true,
+
+          autogenerate: { directory: "it" },
+        },
+      ],
       head: [
         {
           tag: "link",
@@ -74,28 +105,7 @@ export default defineConfig({
           lang: "ru",
         },
       },
-      sidebar: [
-        {
-          label: "AI-инструменты",
-          autogenerate: { directory: "ai" },
-        },
-        {
-          label: "Бизнес",
-          autogenerate: { directory: "business" },
-        },
-        {
-          label: "Лайфстайл",
-          autogenerate: { directory: "lifestyle" },
-        },
-        {
-          label: "Госуслуги",
-          autogenerate: { directory: "gov" },
-        },
-        {
-          label: "IT",
-          autogenerate: { directory: "it" },
-        },
-      ],
+      
     }),
   ],
 });
