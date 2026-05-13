@@ -3,6 +3,19 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## 2026-05-13 ingest | ISO 38500 — 12 принципов 2024, EDM-кейсы, Governance Committee, российский контекст
+
+### Источники
+- `raw/2026/0513/isoltx-12-principles-iso-38500-2024.md` — все 12 принципов Clause 5 версии 2024 (включая новые: Purpose, Value Generation, Data and Decisions, Risk Governance и др.)
+- `raw/2026/0513/umbrex-iso-38500-framework-comprehensive-guide.md` — comprehensive guide: 6 принципов (2015), EDM-цикл, пошаговое внедрение, кейс Regional Bank (+42% speed, -36% incidents)
+- `raw/2026/0513/linkedin-al-shamey-iso-38500-2024-overview.md` — обзор изменений 2024: 6→12 принципов, alignment с ISO 37000
+- `raw/2026/0513/resguard-it-governance-frameworks-comparison.md` — сравнение фреймворков, governance structures, KPI
+- `raw/2026/0513/lockthreat-governance-frameworks-comparison.md` — COBIT vs ISO 38500 vs ITIL vs TOGAF vs NIST, 80% IT failures = governance failures (McKinsey)
+- `raw/2026/0513/standartno-by-iso-38500-ru.md` — ISO 38500 на русском: ГОСТ Р, сертификация в РФ (~16 000 руб), 5 принципов внедрения
+
+### Обновлённые страницы
+- **`it/best-practices/iso-38500-it-governance.md`**: значительно расширена (с ~55 до ~250 строк). Добавлены: 12 принципов 2024 с таблицей сравнения 2015→2024, детальный EDM-цикл с примерами артефактов и ритмом (месяц/квартал/год), Governance vs Management разделение + антипаттерны, пошаговый план внедрения (8 шагов), кейс Regional Bank с метриками результатов, структура IT Governance Committee Charter (7 секций), интеграция с 8 операционными фреймворками (COBIT, ITIL, NIST, ISO 27001, TOGAF и др.), российский контекст (ГОСТ Р, ФСТЭК, 152-ФЗ, КИИ, стоимость сертификации), 4 практических сценария (growth, digital transformation, regulatory pressure, M&A), набор KPI по 4 категориям, когда НЕ использовать ISO 38500
+
 ## 2026-05-12 ingest | ISO 27001 — практические примеры и каталог документов
 
 ### Источники
