@@ -119,6 +119,7 @@ AGENTS.md (conventions) + DESIGN.md (visual) + SKILL.md (tasks) — каждый
 ## См. также
 
 - [AGENTS.md — формат инструкций для AI-агентов](./agents-md.md) — детальный разбор AGENTS.md
+- [.agents и папка-как-агент: экосистема конфигураций](./dotagents-protocol.md) — как связать AGENTS.md, .agents и .agent-подход
 - [Agent Skills для AI](../skills/index.md) — SKILL.md, каталоги и репозитории скиллов
 - [SKILL.md — формат и спецификация](../skills/skill-md.md) — детальный разбор SKILL.md
 - [AI для кода: Copilot, Cursor, Claude Code](../ai-for-code.md) — обзор инструментов

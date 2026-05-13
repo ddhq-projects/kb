@@ -7,6 +7,7 @@ description: "AGENTS.md, CLAUDE.md, SKILL.md, .cursorrules, DESIGN.md — эко
 
 - [AGENTS.md — формат инструкций для AI-агентов](./agents-md.md) — что это, механика автодисковери, иерархия, секции, best practices
 - [Сравнение контекст-файлов](./context-files-ecosystem.md) — AGENTS.md vs CLAUDE.md vs SKILL.md vs .cursorrules vs DESIGN.md: сравнительная таблица, слоистая архитектура, кросс-инструментальная совместимость
+- [.agents и папка-как-агент: экосистема конфигураций](./dotagents-protocol.md) — .agents Protocol, .agent proposal и практическая модель внедрения для команд
 
 ## См. также
 

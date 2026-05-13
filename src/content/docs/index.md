@@ -39,6 +39,7 @@ description: "Каталог всех страниц базы знаний по 
 - [AGENTS.md и контекст-файлы для AI](./ai/agents/index.md)
 - [AGENTS.md — формат инструкций для AI-агентов](./ai/agents/agents-md.md)
 - [Сравнение контекст-файлов](./ai/agents/context-files-ecosystem.md)
+- [.agents и папка-как-агент: экосистема конфигураций](./ai/agents/dotagents-protocol.md)
 
 ### Agent Skills
 

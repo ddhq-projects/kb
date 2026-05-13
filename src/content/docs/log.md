@@ -3,6 +3,22 @@ title: "Лог операций"
 description: "Хронологический журнал всех операций в базе знаний DDPA"
 ---
 
+## [2026-05-13] ingest | raw/2026/0513/dotagents-folder-ecosystem.md
+
+### Созданные страницы
+
+- `ai/agents/dotagents-protocol.md`: новая страница о .agents Protocol, .agent proposal и подходе «папка-как-агент»; добавлены сценарии внедрения, сравнение с AGENTS.md/SKILL.md, риски и практические рекомендации.
+
+### Обновлённые страницы
+
+- `ai/agents/index.md`: добавлена ссылка на новую страницу раздела.
+- `ai/agents/context-files-ecosystem.md`: добавлен cross-link на .agents-материал в блок «См. также».
+- `index.md`: добавлена ссылка в блок «AI Agents и контекст-файлы».
+
+### Источники
+
+- `raw/2026/0513/dotagents-folder-ecosystem.md`
+
 ## 2026-05-13 ingest | ISO 38500 — 12 принципов 2024, EDM-кейсы, Governance Committee, российский контекст
 
 ### Источники
