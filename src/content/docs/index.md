@@ -168,6 +168,7 @@ description: "Каталог всех страниц базы знаний по 
 - [Дорожные карты (Roadmap)](./it/roadmap/roadmap.md)
 - [FTE — планирование загрузки команды](./it/roadmap/fte.md)
 - [Шкала сложности проектов](./it/roadmap/project-complexity-scale.md)
+- [Story Points — относительная оценка в Agile](./it/roadmap/story-points.md)
 
 ### IT Best Practices и стандарты
 

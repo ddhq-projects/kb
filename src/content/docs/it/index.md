@@ -37,6 +37,7 @@ description: "IT-раздел: управление, разработка, DevOp
 - [Дорожные карты (Roadmap)](./roadmap/roadmap.md)
 - [FTE — планирование загрузки команды](./roadmap/fte.md)
 - [Шкала сложности проектов](./roadmap/project-complexity-scale.md)
+- [Story Points — относительная оценка в Agile](./roadmap/story-points.md)
 
 ## Безопасность (Security)
 
