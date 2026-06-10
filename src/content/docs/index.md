@@ -162,6 +162,13 @@ description: "Каталог всех страниц базы знаний по 
 - [Infrastructure as Code (IaC): Terraform, Pulumi, Ansible, OpenTofu](./it/devops/infrastructure-as-code.md)
 - [Хостинг и деплой: Vercel, Railway, Fly.io](./it/devops/hosting-deploy.md)
 
+### Планирование и Roadmap
+
+- [Планирование и дорожные карты: обзор раздела](./it/roadmap/index.md)
+- [Дорожные карты (Roadmap)](./it/roadmap/roadmap.md)
+- [FTE — планирование загрузки команды](./it/roadmap/fte.md)
+- [Шкала сложности проектов](./it/roadmap/project-complexity-scale.md)
+
 ### IT Best Practices и стандарты
 
 - [IT best-practices и стандарты](./it/best-practices/index.md)
