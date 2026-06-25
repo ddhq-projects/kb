@@ -5,7 +5,7 @@ LLM Wiki schema for the DDPA knowledge base — сервисы для бизне
 ## Wiki Structure
 
 ```
-kb-ddpa/
+.
 ├── raw/                       # Immutable source documents — READ ONLY
 │   └── YYYY/                  # Year (e.g. 2026)
 │       └── MMDD/              # Month + Day (e.g. 0501 = May 1)
@@ -125,3 +125,9 @@ on:
 3. Цены и тарифы (если применимо)
 4. Сравнение с аналогами
 5. Практические сценарии использования
+
+## Raw File Safety
+
+- Путь для raw-файлов: `raw/YYYY/MMDD/filename.md` (без префикса `kb-ddpa/`)
+- **Перед `rm -rf` всегда делай `ls`** для проверки содержимого
+- Если `mv` завершился ошибкой — проверь, где остался файл, прежде чем удалять что-либо
