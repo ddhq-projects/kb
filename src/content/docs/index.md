@@ -17,6 +17,7 @@ description: "Каталог всех страниц базы знаний по 
 - [AI-генераторы сайтов и лендингов](./ai/ai-website-builders.md)
 - [AI-генераторы презентаций](./ai/ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./ai/local-ai.md)
+- [5 уровней зрелости AI Second Brain](./ai/second-brain-levels.md)
 
 ### AI-дизайн
 

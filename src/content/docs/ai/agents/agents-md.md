@@ -212,6 +212,7 @@ echo "read: AGENTS.md" >> .aider.conf.yml
 - [AI для кода: Copilot, Cursor, Claude Code](../ai-for-code.md) — инструменты, которые читают AGENTS.md
 - [AI-агенты и автоматизация](../ai-agents.md) — обзор AI-агентов и фреймворков
 - [DESIGN.md — формат дизайн-систем для AI](../design/design-md.md) — DESIGN.md как часть экосистемы контекст-файлов
+- [5 уровней зрелости AI Second Brain](../second-brain-levels.md) — как AGENTS.md вписывается в архитектуру базы знаний (Level 1: базовая маршрутизация)
 
 ## Материалы и источники
 

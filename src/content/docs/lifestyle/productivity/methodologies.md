@@ -63,6 +63,10 @@ description: "Обзор ключевых методологий личной п
 - **GTD** для задач + **PARA** для файлов/заметок
 - **PARA** для организации + **Zettelkasten** внутри Resources
 
+## См. также
+
+- [5 уровней зрелости AI Second Brain](../../ai/second-brain-levels.md) — как организовать базу знаний для AI-агентов: от markdown-файлов до Brain OS
+
 ## Материалы и источники
 
 - Allen, D. (2001) *Getting Things Done*

@@ -15,6 +15,7 @@ description: "Обзор AI-сервисов и инструментов для 
 - [AI-генераторы сайтов и лендингов](./ai-website-builders.md)
 - [AI-генераторы презентаций](./ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./local-ai.md)
+- [5 уровней зрелости AI Second Brain](./second-brain-levels.md) — от markdown-файлов до always-on Brain OS
 
 ### AI-дизайн
 
