@@ -187,5 +187,6 @@ description: "Каталог всех страниц базы знаний по 
 - [Обзор инструментов информационной безопасности](./it/security/index.md)
 - [ISO/IEC 27001 — система управления информационной безопасностью](./it/security/iso-27001.md)
 - [Каталог документов ISO 27001: 20+ шаблонов ISMS](./it/security/iso-27001-documents.md)
+- [BYOK (Bring Your Own Key) — управление ключами шифрования](./it/security/byok.md)
 
 
