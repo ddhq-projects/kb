@@ -7,7 +7,7 @@ description: "Каталог всех страниц базы знаний по 
 
 - [AI-инструменты: обзор раздела](./ai/index.md)
 - [AI-ассистенты и чат-боты: ChatGPT, Claude, Gemini, Grok](./ai/ai-assistants.md)
-- [LLM-модели для бизнеса: ChatGPT, Claude, Gemini](./ai/llm-models.md)
+- [Лучшие LLM нейросети (модели)](./ai/best-llm-models.md)
 - [AI для кода: Copilot, Cursor, Claude Code](./ai/ai-for-code.md)
 - [AI-агенты и автоматизация](./ai/ai-agents.md)
 - [Вертикальный ИИ: отраслевые AI-решения](./ai/vertical-ai.md)

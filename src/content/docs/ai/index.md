@@ -6,7 +6,7 @@ description: "Обзор AI-сервисов и инструментов для 
 Раздел про искусственный интеллект в бизнесе и личной продуктивности: LLM-модели, AI для кода, генеративные инструменты.
 
 - [AI-ассистенты и чат-боты: ChatGPT, Claude, Gemini, Grok](./ai-assistants.md)
-- [LLM-модели для бизнеса: ChatGPT, Claude, Gemini](./llm-models.md)
+- [Лучшие LLM нейросети (модели)](./best-llm-models.md)
 - [AI для кода: Copilot, Cursor, Claude Code](./ai-for-code.md)
 - [AI-агенты и автоматизация](./ai-agents.md)
 - [AI для контента и маркетинга](./ai-content-marketing.md)
