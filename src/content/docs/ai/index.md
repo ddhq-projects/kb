@@ -16,6 +16,7 @@ description: "Обзор AI-сервисов и инструментов для 
 - [AI-генераторы презентаций](./ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./local-ai.md)
 - [5 уровней зрелости AI Second Brain](./second-brain-levels.md) — от markdown-файлов до always-on Brain OS
+- [Open Knowledge Format (OKF)](./open-knowledge-format.md) — открытый стандарт Google Cloud для знаний в формате Markdown
 
 ### AI-дизайн
 

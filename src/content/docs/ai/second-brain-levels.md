@@ -29,6 +29,8 @@ Second Brain — концепция внешней системы знаний, 
 
 См. также: [Заметки и личная wiki: Notion, Obsidian, Anytype](../lifestyle/productivity/notes-and-wiki.md), [Методологии продуктивности: GTD, PARA, Zettelkasten](../lifestyle/productivity/methodologies.md).
 
+OKF (Open Knowledge Format) от Google Cloud — формальная спецификация, стандартизирующая этот уровень: [Open Knowledge Format (OKF)](./open-knowledge-format.md).
+
 ## Уровень 3 — Семантический поиск
 
 Векторные базы данных (Pinecone, Supabase с pgvector). Пайплайн: chunking → embedding → semantic search → hybrid search → reranking. Поиск по смыслу, а не по ключевым словам.
