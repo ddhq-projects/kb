@@ -18,6 +18,7 @@ description: "Каталог всех страниц базы знаний по 
 - [AI-генераторы презентаций](./ai/ai-presentations.md)
 - [Локальные AI-модели: Ollama, LM Studio](./ai/local-ai.md)
 - [5 уровней зрелости AI Second Brain](./ai/second-brain-levels.md)
+- [LLM Wiki — паттерн базы знаний для AI-агентов](./ai/llm-wiki.md)
 - [Open Knowledge Format (OKF)](./ai/open-knowledge-format.md) — открытый стандарт знаний для AI-агентов
 
 ### AI-дизайн
