@@ -15,6 +15,7 @@ description: "Методологии управления, фреймворки 
 | [Scrumban](./scrumban.md) | Гибрид Scrum и Kanban | Переходный период, релизные команды |
 | [Сравнение Scrum, Kanban и Scrumban](./scrumban-vs-scrum-vs-kanban.md) | Критерии выбора подхода | Руководители и тимлиды при выборе процесса |
 | [Флажки](./flag-system.md) | Один главный outcome на человека | Фокус команды на результатах |
+| [ФФФ](./fff.md) | fix time, fix budget, flex scope | Проекты с фиксированным сроком и бюджетом |
 
 ## Управление проектами и командами
 
@@ -24,6 +25,7 @@ description: "Методологии управления, фреймворки 
 - [Scrumban — гибрид Scrum и Kanban](./scrumban.md)
 - [Scrum vs Kanban vs Scrumban — как выбрать подход](./scrumban-vs-scrum-vs-kanban.md)
 - [Система «флажков» — управление через чёткие цели](./flag-system.md)
+- [ФФФ — fix time, fix budget, flex scope](./fff.md)
 
 ## Инструменты
 

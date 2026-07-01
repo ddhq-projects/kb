@@ -84,6 +84,7 @@ description: "Каталог всех страниц базы знаний по 
 - [Scrumban — гибрид Scrum и Kanban](./business/best-practices/scrumban.md)
 - [Scrum vs Kanban vs Scrumban — как выбрать подход](./business/best-practices/scrumban-vs-scrum-vs-kanban.md)
 - [Система «флажков» — управление через чёткие цели](./business/best-practices/flag-system.md)
+- [ФФФ — fix time, fix budget, flex scope](./business/best-practices/fff.md)
 
 #### Автоматизация
 
