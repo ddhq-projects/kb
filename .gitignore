@@ -31,5 +31,3 @@ pnpm-debug.log*
 local
 tmp
 Makefile
-inbox/*
-!inbox/.gitikeep
