@@ -34,7 +34,7 @@ LLM Wiki schema for the DDPA knowledge base — сервисы для бизне
 │   │   ├── devops/             # DevOps: CI/CD, хостинг, мониторинг
 │   │   └── security/           # Безопасность: секреты, аудит, комплаенс
 │   ├── index.md               # Catalog of all pages (update on every ingest)
-│   └── log.md                 # Chronological operations log (append on every operation)
+├── CHANGELOG.md              # Chronological operations log (append on every operation)
 ├── AGENTS.md                  # This file — wiki schema
 ├── astro.config.mjs           # Starlight config
 └── package.json
@@ -69,7 +69,7 @@ LLM Wiki schema for the DDPA knowledge base — сервисы для бизне
 
 ## Page Format
 
-Every wiki page (except index.md and log.md) starts with Starlight-compatible frontmatter:
+Every wiki page (except index.md) starts with Starlight-compatible frontmatter:
 
 ```yaml
 ---
@@ -169,7 +169,7 @@ on:
 2. **Убедиться, что `inbox/` не пустой** → прочитать файл
 3. **Переместить в `raw/YYYY/MMDD/`** (по текущей дате)
 4. **Создать/обновить wiki-страницы** в `src/content/docs/`
-5. **Обновить индексы:** `index.md`, `log.md` (добавить ссылку + запись)
+5. **Обновить индексы:** `index.md`, `CHANGELOG.md` (добавить ссылку + запись)
 6. **Очистить `inbox/`** — должен остаться пустым (только `.gitikeep`)
 
 ### Checklist: После обработки
@@ -177,7 +177,7 @@ on:
 - [ ] Файл перемещён из `inbox/` в `raw/2026/MMDD/`
 - [ ] Создана wiki-страница в `src/content/docs/`
 - [ ] Обновлена ссылка в `src/content/docs/index.md`
-- [ ] Добавлена запись в `src/content/docs/log.md`
+- [ ] Добавлена запись в `CHANGELOG.md`
 - [ ] `inbox/` пустой (только `.gitikeep` остался)
 
 ### Правило: inbox ВСЕГДА пустой

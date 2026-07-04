@@ -14,7 +14,7 @@ Expected wiki root:
 
 Expected core files:
 - `src/content/docs/index.md`
-- `src/content/docs/log.md`
+- `CHANGELOG.md`
 - `AGENTS.md`
 
 Expected raw structure:
@@ -36,11 +36,11 @@ Expected category folders:
 1. Validate folder tree and required files.
 2. Ensure `index.md` has category-level catalog entries format:
    - `- [Page Title](relative/path.md) - One-line summary`
-3. Ensure `log.md` has append-only convention:
+3. Ensure `CHANGELOG.md` has append-only convention:
    - `## [YYYY-MM-DD] <operation> | <title>`
 4. Ensure wiki writing conventions are explicit and enforced from `AGENTS.md`:
 - Content language: ru-RU.
-- All wiki pages except `index.md` and `log.md` include frontmatter with `title` and `description`.
+- All wiki pages except `index.md` include frontmatter with `title` and `description`.
 - Do NOT duplicate frontmatter `title` with an `# H1` heading — Starlight renders the title as H1. Start content from `##`.
 - **Ссылки всегда с `.md`:** все относительные ссылки на wiki-страницы пишутся с расширением `.md` (напр. `[text](./page.md)`, `./category/index.md`). НИКОГДА без `.md` или с `/` в конце. Плагин `remarkStripMdLinks` сам уберёт расширения при сборке.
 - Relative markdown links only.
@@ -55,5 +55,5 @@ Expected category folders:
 ## Done Criteria
 
 - Structure is valid.
-- `index.md` and `log.md` are present and usable.
+- `index.md` and `CHANGELOG.md` are present and usable.
 - Conventions are explicit for downstream skills.

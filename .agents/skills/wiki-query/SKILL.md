@@ -22,7 +22,7 @@ Answer from the wiki, not from model memory.
 5. If user agrees:
 - Create FAQ page with frontmatter (`title`, `description`). Do NOT add an `# H1` heading — Starlight renders the `title` as H1. Start content from `##`.
 - Add entry to `src/content/docs/index.md`.
-- Append `src/content/docs/log.md`:
+- Append `CHANGELOG.md`:
   - `## [YYYY-MM-DD] query | <question summary>`
 
 ## Output Shaping

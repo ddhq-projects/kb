@@ -5,6 +5,68 @@ description: "Хронологический журнал всех операц�
 
 ---
 
+## [2026-07-04] ingest | raw/2026/0704/bi.md
+
+### Созданные страницы
+
+- `it/dashboards/best-bi-dashboards.md`: новая страница про лучшие BI-платформы для дашбордов; сравнительная таблица 8 решений (Яндекс DataLens, Apache Superset, Bitrix24 BI, PIX BI, Luxms BI, Модус BI, Сбер Навигатор BI, Cloud.ru Evolution Managed BI); детальный обзор каждой платформы; рекомендации по выбору под сценарий; тренды 2025–2026; включает материал из удалённой страницы `cloud-ru-evolution.md`.
+
+### Удалённые страницы
+
+- `it/dashboards/cloud-ru-evolution.md`: содержимое объединено с новой страницей `best-bi-dashboards.md` (раздел про Cloud.ru Evolution Managed BI).
+
+### Обновлённые страницы
+
+- `it/dashboards/index.md`: ссылка на `cloud-ru-evolution.md` заменена на `best-bi-dashboards.md`; добавлен источник bi.md
+- `it/dashboards/cdo.md`: ссылка на `cloud-ru-evolution.md` заменена на `best-bi-dashboards.md`
+- `it/index.md`: ссылка на `cloud-ru-evolution.md` заменена на `best-bi-dashboards.md`
+
+### Источник
+
+- `inbox/bi.md` перемещён в `raw/2026/0704/bi.md` — исследование BI-платформ для построения дашбордов в России, июль 2026.
+
+---
+
+## [2026-07-04] ingest | raw/2026/0704/10-shablonov-dashbordov.md
+
+### Созданные страницы
+
+- `business/processes/dashboards-for-executives.md`: новая страница о 10 шаблонах дашбордов для топ-руководителей (CEO, CFO, CMO, CPO, COO, CCO, CSO, CTO, CIO, CDO); метрики, формулы, референсные значения, форматы визуализации; техническая реализация на Cloud.ru Evolution Data Platform; 12 изображений дашбордов.
+
+### Обновлённые страницы
+
+- `business/processes/index.md`: добавлен пункт ссылки на новую страницу дашбордов
+- `index.md`: добавлен пункт ссылки в разделе «Процессы»
+
+### Источник
+
+- PDF `10_shablonov_dashbordov_dlya_top_rukovoditeley.pdf` (19.9 MB, 38 страниц) извлечён через `summarize` CLI с `markitdown`: текст в markdown + 103 изображения. Оригинал сохранён в `raw/2026/0704/`, изображения в `src/content/images/10-shablonov-dashbordov/`.
+
+### Структура
+
+Создан раздел `it/dashboards/` с отдельной страницей для каждого C-level:
+
+- `it/dashboards/index.md` — обзор раздела и ролевая модель
+- `it/dashboards/ceo.md` — дашборд генерального директора
+- `it/dashboards/cfo.md` — дашборд финансового директора
+- `it/dashboards/cmo.md` — дашборд директора по маркетингу
+- `it/dashboards/cpo.md` — дашборд директора по продукту
+- `it/dashboards/coo.md` — дашборд операционного директора
+- `it/dashboards/cco.md` — дашборд коммерческого директора
+- `it/dashboards/cso.md` — дашборд директора по безопасности
+- `it/dashboards/cto.md` — дашборд технического директора
+- `it/dashboards/cio.md` — дашборд ИТ-директора
+- `it/dashboards/cdo.md` — дашборд директора по данным
+- `it/dashboards/cloud-ru-evolution.md` — техническая платформа Cloud.ru Evolution
+
+### Обновлённые страницы
+
+- `it/index.md`: добавлен раздел «Дашборды для топ-руководителей» со ссылками на все 12 страниц
+- `index.md`: убрана ссылка на старую сводную страницу из business/processes
+- `business/processes/index.md`: убрана ссылка на старую сводную страницу
+
+---
+
 ## [2026-07-01] ingest | raw/2026/0701/fff-bureau-gorbunova.md
 
 ### Созданные страницы
