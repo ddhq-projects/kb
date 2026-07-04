@@ -67,6 +67,24 @@ LLM Wiki schema for the DDPA knowledge base — сервисы для бизне
   - Обязательны ссылки на источники в конце (раздел «Материалы и источники»)
   - Все ссылки на wiki-страницы с расширением `.md`
 
+## Section Metadata (_meta.yml)
+
+- В каждом разделе и подразделе внутри `src/content/docs/` обязателен файл `_meta.yml`.
+- Допустимы оба имени: `_meta.yml` и `_meta.yaml`.
+- Файл размещается в корне конкретного раздела, который нужно настроить.
+- Пример: `src/content/docs/it/security/_meta.yml`.
+- Базовый кейс: переименовать заголовок раздела в sidebar через `label`.
+
+```yaml
+label: Security
+```
+
+- Свойства из `_meta.yml` по умолчанию применяются только к текущей папке.
+- Для применения части свойств к вложенным подпапкам используйте `cascade`.
+- Если нужно переименовать и вложенный раздел, добавьте отдельный `_meta.yml` в его папке.
+
+Детали: https://starlight-auto-sidebar.netlify.app/guides/using-metadata/
+
 ## Page Format
 
 Every wiki page (except index.md) starts with Starlight-compatible frontmatter:
