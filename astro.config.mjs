@@ -28,31 +28,27 @@ export default defineConfig({
         {
           label: "AI-инструменты",
           collapsed: true,
-          autogenerate: { directory: "ai" },
+          items: [{ autogenerate: { directory: "ai" } }],
         },
         {
           label: "Бизнес",
           collapsed: true,
-
-          autogenerate: { directory: "business" },
+          items: [{ autogenerate: { directory: "business" } }],
         },
         {
           label: "Лайфстайл",
           collapsed: true,
-
-          autogenerate: { directory: "lifestyle" },
+          items: [{ autogenerate: { directory: "lifestyle" } }],
         },
         {
           label: "Госуслуги",
           collapsed: true,
-
-          autogenerate: { directory: "gov" },
+          items: [{ autogenerate: { directory: "gov" } }],
         },
         {
           label: "IT",
           collapsed: true,
-
-          autogenerate: { directory: "it" },
+          items: [{ autogenerate: { directory: "it" } }],
         },
       ],
       head: [
