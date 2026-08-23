@@ -11,7 +11,7 @@ Run a health audit over wiki pages.
 
 Scan under `src/content/docs/`, excluding:
 - `src/content/docs/index.md`
-- `CHANGELOG.md` (now at repo root)
+- `LOG.md` (now at repo root)
 
 ## Checks
 
@@ -35,7 +35,7 @@ Priority order:
 1. Build page/link inventory.
 2. Produce severity-grouped report with concrete file paths.
 3. Suggest precise fixes for each issue.
-4. Append `CHANGELOG.md`:
+4. Append `LOG.md`:
    - `## [YYYY-MM-DD] lint | <N issues found>`
 
 ## Quality Bar
@@ -46,4 +46,4 @@ Priority order:
 ## Done Criteria
 
 - Severity-ordered findings are reported.
-- `CHANGELOG.md` has lint entry.
+- `LOG.md` has lint entry.

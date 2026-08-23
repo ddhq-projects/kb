@@ -33,7 +33,7 @@ Compile a new source into the persistent wiki. **База знаний сфок�
 4. Create or update relevant pages in the correct category folder.
 5. Add or update cross-references in both directions.
 6. Update `src/content/docs/index.md` entries.
-7. Append `CHANGELOG.md`:
+7. Append `LOG.md`:
    - `## [YYYY-MM-DD] ingest | <source title>`
 8. Report all touched files.
 
@@ -76,4 +76,4 @@ If none fit, propose a new category before creating it.
 - Pages created/updated.
 - Cross-links reconciled.
 - `index.md` updated.
-- `CHANGELOG.md` appended.
+- `LOG.md` appended.

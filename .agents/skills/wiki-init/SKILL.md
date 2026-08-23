@@ -14,7 +14,7 @@ Expected wiki root:
 
 Expected core files:
 - `src/content/docs/index.md`
-- `CHANGELOG.md`
+- `LOG.md`
 - `AGENTS.md`
 
 Expected raw structure:
@@ -36,7 +36,7 @@ Expected category folders:
 1. Validate folder tree and required files.
 2. Ensure `index.md` has category-level catalog entries format:
    - `- [Page Title](relative/path.md) - One-line summary`
-3. Ensure `CHANGELOG.md` has append-only convention:
+3. Ensure `LOG.md` has append-only convention:
    - `## [YYYY-MM-DD] <operation> | <title>`
 4. Ensure wiki writing conventions are explicit and enforced from `AGENTS.md`:
 - Content language: ru-RU.
@@ -55,5 +55,5 @@ Expected category folders:
 ## Done Criteria
 
 - Structure is valid.
-- `index.md` and `CHANGELOG.md` are present and usable.
+- `index.md` and `LOG.md` are present and usable.
 - Conventions are explicit for downstream skills.

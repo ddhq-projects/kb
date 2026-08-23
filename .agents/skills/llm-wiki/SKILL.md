@@ -13,7 +13,7 @@ Wiki root in this repo:
 - Sources: `raw/YYYY/MMDD/file.{md,pdf}` (immutable, date-organized)
 - Pages: `src/content/docs/`
 - Catalog: `src/content/docs/index.md`
-- Log: `CHANGELOG.md`
+- Log: `LOG.md`
 
 ### Raw Structure
 
@@ -87,7 +87,7 @@ These rules apply to all wiki-* skills:
 - Never modify files under `raw/`.
 
 3. Bookkeeping is mandatory:
-- Keep `index.md` and `CHANGELOG.md` updated on ingest, update, lint, and filed query operations.
+- Keep `index.md` and `LOG.md` updated on ingest, update, lint, and filed query operations.
 
 4. Cross-links are first-class:
 - Maintain bidirectional links where pages are semantically related.
