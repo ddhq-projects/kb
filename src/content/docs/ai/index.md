@@ -9,6 +9,7 @@ description: "Обзор AI-сервисов и инструментов для 
 - [Лучшие LLM нейросети (модели)](./best-llm-models.md)
 - [AI для кода: Copilot, Cursor, Claude Code](./ai-for-code.md)
 - [AI-агенты и автоматизация](./ai-agents.md)
+- [Классификация контента: таксономия, AI и автоматизация](./content-classification.md)
 - [AI для контента и маркетинга](./ai-content-marketing.md)
 - [AI в поиске: Perplexity, SearchGPT, You.com](./ai-search.md)
 - [AI-генерация медиа: изображения, видео, аудио](./ai-media-generation.md)

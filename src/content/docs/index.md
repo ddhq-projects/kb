@@ -10,6 +10,7 @@ description: "Каталог всех страниц базы знаний по 
 - [Лучшие LLM нейросети (модели)](./ai/best-llm-models.md)
 - [AI для кода: Copilot, Cursor, Claude Code](./ai/ai-for-code.md)
 - [AI-агенты и автоматизация](./ai/ai-agents.md)
+- [Классификация контента: таксономия, AI и автоматизация](./ai/content-classification.md)
 - [Вертикальный ИИ: отраслевые AI-решения](./ai/vertical-ai.md)
 - [AI для контента и маркетинга](./ai/ai-content-marketing.md)
 - [AI в поиске: Perplexity, SearchGPT, You.com](./ai/ai-search.md)
@@ -189,5 +190,4 @@ description: "Каталог всех страниц базы знаний по 
 - [ISO/IEC 27001 — система управления информационной безопасностью](./it/security/iso-27001.md)
 - [Каталог документов ISO 27001: 20+ шаблонов ISMS](./it/security/iso-27001-documents.md)
 - [BYOK (Bring Your Own Key) — управление ключами шифрования](./it/security/byok.md)
-
 

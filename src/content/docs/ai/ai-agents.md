@@ -149,6 +149,7 @@ AI-агенты — это автономные системы на базе LLM
 - [AGENTS.md — формат инструкций для AI-агентов](./agents/agents-md.md) — стандарт контекст-файлов для AI coding agents
 - [Сравнение контекст-файлов](./agents/context-files-ecosystem.md) — AGENTS.md vs CLAUDE.md vs SKILL.md
 - [AI для кода: Copilot, Cursor, Claude Code](./ai-for-code.md) — инструменты, которые читают AGENTS.md
+- [Классификация контента: таксономия, AI и автоматизация](./content-classification.md) — структурированные входные данные и контроль решений AI-автоматизаций
 
 ## Материалы и источники
 
